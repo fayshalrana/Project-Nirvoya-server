@@ -11,7 +11,7 @@ app.use(express.json())
 
 // Define a route
 app.get('/', (req, res) => {
-  res.send('Hello, World!');
+  res.send('Project Nirvoy products data ');
 });
 //Menus
 app.get('/menus', (req, res)=>{
