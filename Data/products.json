@@ -1,0 +1,887 @@
+[
+  {
+    "id": 1,
+    "productName": "Men's Stylish Leather Jacket",
+    "color": "Black",
+    "rating": 4.8,
+    "soldQuantity": 120,
+    "price": 129.99,
+    "discount": 20,
+    "SKU": "MENJACKET456",
+    "stock": 50,
+    "sizes": ["M", "L", "XL"],
+    "quantity": 15,
+    "productImage": [
+      "https://i.pinimg.com/236x/f4/8a/1c/f48a1ca464d757a1986f1d2b3215f331.jpg",
+      "https://i.pinimg.com/236x/56/72/d3/5672d366a7eac4c3491e8d9d88bdfb7c.jpg",
+      "https://i.pinimg.com/236x/62/c4/26/62c426ce6ae6bcdc40f89368b28db36f.jpg",
+      "https://i.pinimg.com/236x/2d/2b/52/2d2b52ba3b0c1708c3864d402872ab03.jpg",
+      "https://i.pinimg.com/236x/dc/e9/b8/dce9b8ed2164fbc3d06f46ec4faf0b0b.jpg"
+    ],
+    "category": "Men Fashion",
+    "description": "Enhance your style with our Men's Stylish Leather Jacket. Crafted from high-quality genuine leather, this jacket offers a sleek and fashionable look. Perfect for both casual and formal occasions, this jacket is a versatile addition to your wardrobe.",
+    "features": [
+      "Genuine leather material",
+      "Stylish design with zipper closure",
+      "Comfortable fit",
+      "Multiple pockets for convenience"
+    ],
+    "specifications": {
+      "material": "Genuine Leather",
+      "closure": "Zipper",
+      "careInstructions": "Dry clean only"
+    },
+    "reviews": [
+      {
+        "customerName": "Michael Brown",
+        "customerImage": "michael_image.jpg",
+        "rating": 4.8,
+        "comment": "Love the quality and fit. Highly recommended!"
+      },
+      {
+        "customerName": "David Wilson",
+        "customerImage": "david_image.jpg",
+        "rating": 4.5,
+        "comment": "Great leather jacket. Excellent craftsmanship."
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": 3,
+    "productName": "Health Pack XYZ",
+    "color": "White",
+    "rating": 4.8,
+    "soldQuantity": 50,
+    "price": 49.99,
+    "discount": 10,
+    "SKU": "XYZ789",
+    "stock": 30,
+    "sizes": ["Standard"],
+    "quantity": 10,
+    "productImage": [
+      "https://i.pinimg.com/236x/3e/43/40/3e434064530022bf951dad156a6ac177.jpg",
+      "https://i.pinimg.com/236x/34/04/68/340468a53b09b7e193561275d89b3418.jpg",
+      "https://i.pinimg.com/236x/76/90/6e/76906ea7d9119ba644ca05929d21d043.jpg",
+      "https://i.pinimg.com/236x/0a/a8/25/0aa825dce478171ed2a52d45e6698992.jpg",
+      "https://i.pinimg.com/736x/5b/c1/00/5bc1008a84561b2ad0eee64c32194ff6.jpg"
+    ],
+    "category": "Health & Household",
+    "categoryImage": "",
+    "description": "The Health Pack XYZ is a comprehensive package designed for your well-being. Packed with essential health and household items, this bundle is curated to support a healthy lifestyle. From vitamins to household cleaners, get everything you need in one convenient pack.",
+    "features": [
+      
+      "Complete health package",
+      "Essential household items",
+      "High-quality ingredients",
+      "Convenient and affordable"
+    ],
+    "specifications": {
+      "contents": ["Multivitamins", "Cleaning Supplies", "Health Snacks"],
+      "expiryDate": "2024-12-31"
+    },
+    "reviews": [
+      {
+        "customerName": "Emily Smith",
+        "customerImage": "emily_image.jpg",
+        "rating": 5,
+        "comment": "Love the variety in this health pack!"
+      },
+      {
+        "customerName": "David Taylor",
+        "customerImage": "david_image.jpg",
+        "rating": 4.5,
+        "comment": "Great value for a healthier lifestyle."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "productName": "Kids Fashion Deluxe Set",
+    "color": "Multicolor",
+    "rating": 4.5,
+    "soldQuantity": 75,
+    "price": 59.99,
+    "discount": 20,
+    "SKU": "KID123",
+    "stock": 25,
+    "sizes": ["3T", "4T", "5T"],
+    "quantity": 15,
+    "productImage": [
+      "https://i.pinimg.com/564x/8a/74/97/8a7497923f2a00fa4edda19498849918.jpg",
+      "https://i.pinimg.com/236x/be/21/ed/be21ed77192e90891b8946fb6557475f.jpg",
+      "https://i.pinimg.com/474x/43/bd/8e/43bd8ea4ee702e6ecdea2ee88c3283df.jpg",
+      "https://i.pinimg.com/236x/a8/27/af/a827afbc69c2950501d171d7f9dbe60a.jpg",
+      "https://i.pinimg.com/236x/1e/52/0e/1e520e88bf7c6d8828d78ab568bd0634.jpg"
+    ],
+    "category": "Kids Fashion",
+    "categoryImage": "",
+    "description": "The Kids Fashion Deluxe Set is a vibrant and stylish ensemble for your little ones. With a mix of colors and comfortable fabrics, this set is perfect for any occasion. Give your kids a trendy and fun wardrobe with this deluxe fashion set.",
+    "features": [
+      "Assorted colors and designs",
+      "Comfortable and durable fabrics",
+      "Perfect for various occasions",
+      "Easy to mix and match"
+    ],
+    "specifications": {
+      "material": "Cotton and Polyester Blend",
+      "careInstructions": "Machine wash cold, tumble dry low"
+    },
+    "reviews": [
+      {
+        "customerName": "Sophie Roberts",
+        "customerImage": "sophie_image.jpg",
+        "rating": 4,
+        "comment": "Adorable and well-made outfits for kids."
+      },
+      {
+        "customerName": "Ryan Johnson",
+        "customerImage": "ryan_image.jpg",
+        "rating": 5,
+        "comment": "Great value and excellent quality!"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": 5,
+    "productName": "Interactive Learning Robot",
+    "color": "Blue",
+    "rating": 4.7,
+    "soldQuantity": 120,
+    "price": 34.99,
+    "discount": 10,
+    "SKU": "TOY567",
+    "stock": 40,
+    "sizes": ["One Size"],
+    "quantity": 20,
+    "productImage": [
+      "https://i.pinimg.com/236x/85/69/48/85694896c1edb8abcc7b34480853c243.jpg",
+      "https://i.pinimg.com/236x/15/77/c4/1577c4e346166d4c65fc6928ac74b20c.jpg",
+      "https://i.pinimg.com/236x/ed/d9/a0/edd9a09a285d27b17d89408a6bdcd775.jpg",
+      "https://i.pinimg.com/564x/77/39/2b/77392bb0f7a613e4d773c9341f56e6a5.jpg",
+      "https://i.pinimg.com/236x/3f/c5/aa/3fc5aa987ae64205cb60e5cffefc7dca.jpg"
+    ],
+    "category": "Toys",
+    "categoryImage": "",
+    "description": "Introducing the Interactive Learning Robot, a fun and educational toy for kids. This robot is designed to engage children in interactive learning activities, fostering creativity and cognitive development. With its colorful design and interactive features, it's the perfect companion for play and learning.",
+    "features": [
+      "Interactive learning activities",
+      "Colorful and engaging design",
+      "Safe and durable materials",
+      "Batteries included"
+    ],
+    "specifications": {
+      "recommendedAge": "3-8 years",
+      "powerSource": "Battery-operated (included)",
+      "material": "Non-toxic plastic"
+    },
+    "reviews": [
+      {
+        "customerName": "Olivia Davis",
+        "customerImage": "olivia_image.jpg",
+        "rating": 4.5,
+        "comment": "My kids love this interactive robot! Educational and entertaining."
+      },
+      {
+        "customerName": "Jake Miller",
+        "customerImage": "jake_image.jpg",
+        "rating": 5,
+        "comment": "Great toy for learning and play. Highly recommended!"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 6,
+    "productName": "Premium Organic Olive Oil",
+    "color": null,
+    "rating": 4.9,
+    "soldQuantity": 200,
+    "price": 29.99,
+    "discount": 5,
+    "SKU": "ORGOLIVE789",
+    "stock": 30,
+    "sizes": ["500ml", "1L"],
+    "quantity": 15,
+    "productImage": [
+      "https://i.pinimg.com/564x/8e/3e/32/8e3e32da241794ad5aef7ea76838e0a0.jpg",
+      "https://i.pinimg.com/236x/bf/47/19/bf47192aab44c0ab4cce5eb6af5cefc2.jpg",
+      "https://i.pinimg.com/236x/1f/9a/79/1f9a7994db450fc683fdbb848279e782.jpg",
+      "https://i.pinimg.com/236x/80/b3/37/80b337181f115c475c25806d53f44dd7.jpg",
+      "https://i.pinimg.com/236x/92/d6/35/92d635859f13cdec44fedc26bfd2583c.jpg"
+    ],
+    "category": "Groceries",
+    "categoryImage": "",
+    "description": "Experience the richness of Premium Organic Olive Oil, sourced from the finest organic olives. This high-quality olive oil is perfect for enhancing the flavor of your dishes. Elevate your culinary creations with the goodness of organic and natural ingredients.",
+    "features": [
+      "Cold-pressed organic olives",
+      "Rich flavor and aroma",
+      "Ideal for salads, cooking, and dipping",
+      "Packed with antioxidants"
+    ],
+    "specifications": {
+      "organicCertification": "USDA Organic",
+      "harvestDate": "2023-09-15",
+      "bottleMaterial": "Dark glass"
+    },
+    "reviews": [
+      {
+        "customerName": "Sophia Johnson",
+        "customerImage": "sophia_image.jpg",
+        "rating": 5,
+        "comment": "Absolutely love the flavor! The best organic olive oil I've tried."
+      },
+      {
+        "customerName": "Ethan Davis",
+        "customerImage": "ethan_image.jpg",
+        "rating": 4.8,
+        "comment": "Highly recommended for those who appreciate quality."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 7,
+    "productName": "Luxury Scented Candle Set",
+    "color": "Assorted",
+    "rating": 4.7,
+    "soldQuantity": 120,
+    "price": 49.99,
+    "discount": 15,
+    "SKU": "HOME123",
+    "stock": 40,
+    "sizes": ["Small", "Medium", "Large"],
+    "quantity": 25,
+    "productImage": [
+      "https://i.pinimg.com/236x/89/2d/5f/892d5f1b284863b5c28d45081683833a.jpg",
+      "https://i.pinimg.com/236x/79/68/fd/7968fd2497e041c18a6687d4cd2cea7f.jpg",
+      "https://i.pinimg.com/236x/d7/82/b2/d782b2d6c140328c3e2fe4afe21969c2.jpg",
+      "https://i.pinimg.com/564x/f7/25/f9/f725f9613340ae4706623a89cc22706f.jpg",
+      "https://i.pinimg.com/236x/94/13/59/941359d7944e6dfef0d67cfdfe78ec58.jpg"
+    ],
+    "category": "Home & Lifestyle",
+    "categoryImage": "",
+    "description": "Transform your living space with our Luxury Scented Candle Set. Crafted with premium ingredients, these assorted candles bring a touch of elegance and soothing aromas to your home. Create a warm and inviting atmosphere with this luxurious candle collection.",
+    "features": [
+      "Assorted scents for every mood",
+      "Long-lasting and clean-burning",
+      "Elegantly designed candles",
+      "Perfect for home decor or gifting"
+    ],
+    "specifications": {
+      "scents": ["Lavender Bliss", "Vanilla Serenity", "Citrus Delight"],
+      "burnTime": "Up to 30 hours (per candle)"
+    },
+    "reviews": [
+      {
+        "customerName": "Ava Thompson",
+        "customerImage": "ava_image.jpg",
+        "rating": 4.5,
+        "comment": "Beautiful scents and elegant design. Love these candles!"
+      },
+      {
+        "customerName": "Noah Harris",
+        "customerImage": "noah_image.jpg",
+        "rating": 5,
+        "comment": "Exceptional quality. A must-have for home enthusiasts."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 8,
+    "productName": "Classic Leather Jacket",
+    "color": "Black",
+    "rating": 4.6,
+    "soldQuantity": 80,
+    "price": 129.99,
+    "discount": 10,
+    "SKU": "MENJKT789",
+    "stock": 35,
+    "sizes": ["M", "L", "XL"],
+    "quantity": 15,
+    "productImage": [
+      "https://i.pinimg.com/236x/59/b5/45/59b5455ceefc14ca276cb70390ebd6b0.jpg",
+      "https://i.pinimg.com/236x/3e/58/8b/3e588b03734b9ee2abe97f503666d788.jpg",
+      "https://i.pinimg.com/236x/f4/8a/1c/f48a1ca464d757a1986f1d2b3215f331.jpg",
+      "https://i.pinimg.com/236x/68/2c/e9/682ce91dad003ceaadff17db69e764e6.jpg",
+      "https://i.pinimg.com/236x/7e/38/70/7e38705afc12a8463209b48aafda62f8.jpg"
+    ],
+    "category": "Men Fashion",
+    "categoryImage": "",
+    "description": "Upgrade your style with our Classic Leather Jacket for men. Crafted from premium leather, this timeless piece combines fashion and functionality. Whether you're heading out for a casual day or a night on the town, this jacket adds a touch of sophistication to your wardrobe.",
+    "features": [
+      "Genuine leather material",
+      "Timeless and versatile design",
+      "Comfortable fit",
+      "Perfect for various occasions"
+    ],
+    "specifications": {
+      "material": "Genuine Leather",
+      "lining": "Polyester",
+      "closure": "Zipper",
+      "careInstructions": "Dry clean only"
+    },
+    "reviews": [
+      {
+        "customerName": "Liam White",
+        "customerImage": "liam_image.jpg",
+        "rating": 4.8,
+        "comment": "Love the quality and style of this leather jacket. A great buy!"
+      },
+      {
+        "customerName": "Ella Brown",
+        "customerImage": "ella_image.jpg",
+        "rating": 4.4,
+        "comment": "Classic and elegant. Fits perfectly and looks amazing."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 9,
+    "productName": "Elegant Floral Dress",
+    "color": "Navy Blue",
+    "rating": 4.9,
+    "soldQuantity": 120,
+    "price": 89.99,
+    "discount": 15,
+    "SKU": "WOMENDRESS456",
+    "stock": 50,
+    "sizes": ["S", "M", "L"],
+    "quantity": 20,
+    "productImage": [
+      "https://i.pinimg.com/236x/d9/0e/ac/d90eac7d6d97aeb484d4dca6ff434c55.jpg",
+      "https://i.pinimg.com/236x/14/dc/81/14dc81183ac71dcc3f4a3b575775242f.jpg",
+      "https://i.pinimg.com/564x/f1/d6/d6/f1d6d65333871358fcd5e811d468162a.jpg",
+      "https://i.pinimg.com/564x/e2/12/2a/e2122ada86d84aeec1ecf94365fc4a48.jpg",
+      "https://i.pinimg.com/474x/7a/e7/3e/7ae73e4a52d2a6664c27c3549e7a6ba9.jpg"
+    ],
+    "category": "Women’s Fashion",
+    "categoryImage": "",
+    "description": "Step into elegance with our Elegant Floral Dress for women. The navy blue dress features a beautiful floral pattern, making it perfect for various occasions. Whether you're attending a party or a special event, this dress adds a touch of sophistication to your wardrobe.",
+    "features": [
+      "Elegant floral pattern",
+      "Comfortable and stylish",
+      "Flattering fit",
+      "Ideal for both casual and formal events"
+    ],
+    "specifications": {
+      "material": "Polyester",
+      "dressLength": "Knee-length",
+      "closure": "Zipper",
+      "careInstructions": "Hand wash cold, line dry"
+    },
+    "reviews": [
+      {
+        "customerName": "Isabella Taylor",
+        "customerImage": "isabella_image.jpg",
+        "rating": 5,
+        "comment": "Absolutely love this dress! Beautiful design and great quality."
+      },
+      {
+        "customerName": "Mia Johnson",
+        "customerImage": "mia_image.jpg",
+        "rating": 4.8,
+        "comment": "Stunning dress. Received many compliments. Highly recommended!"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 10,
+    "productName": "Premium Leather Notebook",
+    "color": "Brown",
+    "rating": 4.7,
+    "soldQuantity": 90,
+    "price": 29.99,
+    "discount": 12,
+    "SKU": "STATIONERYBOOKS789",
+    "stock": 40,
+    "sizes": ["A5"],
+    "quantity": 25,
+    "productImage": [
+      "https://i.pinimg.com/236x/ce/73/b3/ce73b3704064cc2884370f6ad2ce727d.jpg",
+      "https://i.pinimg.com/564x/e9/db/e1/e9dbe1e58697f3f80b9ce2f3b10cb3e8.jpg",
+      "https://i.pinimg.com/236x/4f/96/49/4f964939413cbae9e03fd93a190987d8.jpg",
+      "https://i.pinimg.com/564x/62/fc/3d/62fc3dd95f6a231280d95e7681b1b486.jpg",
+      "https://i.pinimg.com/236x/9b/a9/58/9ba958cded4960ad7e16546752b5430a.jpg"
+    ],
+    "category": "Stationery & Books",
+    "categoryImage": "",
+    "description": "Enhance your writing experience with our Premium Leather Notebook. Crafted with a genuine leather cover, this notebook offers a sophisticated and durable option for your notes, sketches, or journaling. Elevate your stationery collection with this timeless piece.",
+    "features": [
+      "Genuine leather cover",
+      "High-quality paper",
+      "Perfect for notes and sketches",
+      "Refillable design"
+    ],
+    "specifications": {
+      "coverMaterial": "Genuine Leather",
+      "paperType": "Lined, acid-free",
+      "size": "A5",
+      "pages": 120
+    },
+    "reviews": [
+      {
+        "customerName": "Oliver Davis",
+        "customerImage": "oliver_image.jpg",
+        "rating": 4.5,
+        "comment": "Beautiful and functional leather notebook. Great for writing or sketching."
+      },
+      {
+        "customerName": "Sophie Miller",
+        "customerImage": "sophie_image.jpg",
+        "rating": 5,
+        "comment": "Love the quality and style. A must-have for stationery enthusiasts."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 11,
+    "productName": "Classic Leather Wallet",
+    "color": "Tan",
+    "rating": 4.6,
+    "soldQuantity": 80,
+    "price": 49.99,
+    "discount": 10,
+    "SKU": "LEATHERGOODS123",
+    "stock": 35,
+    "sizes": ["One Size"],
+    "quantity": 15,
+    "productImage": [
+      "https://i.pinimg.com/564x/92/ac/2d/92ac2d38f1911e0c3a721a54bee8c8ab.jpg",
+      "https://i.pinimg.com/564x/1b/f5/6d/1bf56dd44358d88cb4f8778030996d38.jpg",
+      "https://i.pinimg.com/564x/48/4b/c0/484bc0cf3ca048cbd07290ae6c4e14d0.jpg",
+      "https://i.pinimg.com/236x/fb/20/75/fb20757b2bac766362477f0f7ccad824.jpg",
+      "https://i.pinimg.com/236x/d9/26/9f/d9269fa209c7c1b142948562b0ae0b6e.jpg"
+    ],
+    "category": "Leather Goods",
+    "categoryImage": "",
+    "description": "Elevate your style and functionality with our Classic Leather Wallet. Crafted from premium tan leather, this timeless wallet offers ample space for your essentials while adding a touch of sophistication to your daily carry. A must-have accessory for any occasion.",
+    "features": [
+      "Genuine tan leather",
+      "Multiple card slots and compartments",
+      "Slim and compact design",
+      "Durable and stylish"
+    ],
+    "specifications": {
+      "material": "Genuine Leather",
+      "closure": "Bifold",
+      "dimensions": "4.5 x 3.5 inches"
+    },
+    "reviews": [
+      {
+        "customerName": "Aiden White",
+        "customerImage": "aiden_image.jpg",
+        "rating": 4.8,
+        "comment": "High-quality leather wallet. Stylish and functional."
+      },
+      {
+        "customerName": "Sophia Brown",
+        "customerImage": "sophia_image.jpg",
+        "rating": 4.4,
+        "comment": "Love the tan color and craftsmanship. Fits perfectly in my pocket."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 12,
+    "productName": "Holiday Decor Set",
+    "color": "Multi-color",
+    "rating": 4.7,
+    "soldQuantity": 40,
+    "price": 59.99,
+    "discount": 15,
+    "SKU": "SEASONAL789",
+    "stock": 25,
+    "sizes": ["One Size"],
+    "quantity": 10,
+    "productImage": [
+      "https://i.pinimg.com/564x/e8/b6/a8/e8b6a8b07406134d8a1580c738d3c1aa.jpg",
+      "https://i.pinimg.com/236x/89/56/2e/89562e525f83aead3b9f47985545b7db.jpg",
+      "https://i.pinimg.com/564x/4a/27/f8/4a27f8916cd80280d338723b1550b750.jpg",
+      "https://i.pinimg.com/564x/ed/4d/96/ed4d96b25b55d7e8893bf68c4cccf970.jpg",
+      "https://i.pinimg.com/236x/b0/3d/e0/b03de08e27ab01267398ceb94f9febaa.jpg"
+    ],
+    "category": "Seasonal",
+    "categoryImage": "",
+    "description": "Celebrate the season with our Holiday Decor Set. This festive set includes a variety of colorful decorations to bring joy to your home. Perfect for holiday gatherings and creating a cheerful atmosphere, this decor set is a must-have for the festive season.",
+    "features": [
+      "Assorted holiday decorations",
+      "Vibrant and festive colors",
+      "Ideal for home decor",
+      "Create a joyful atmosphere"
+    ],
+    "specifications": {
+      "includedDecorations": ["Ornaments", "Garland", "Candles", "Stockings", "Tree Topper"],
+      "material": "Various",
+      "setDimensions": "Various sizes"
+    },
+    "reviews": [
+      {
+        "customerName": "Ava Davis",
+        "customerImage": "ava_image.jpg",
+        "rating": 4.5,
+        "comment": "Beautiful and festive holiday decor set. Love the variety of decorations."
+      },
+      {
+        "customerName": "Ethan White",
+        "customerImage": "ethan_image.jpg",
+        "rating": 5,
+        "comment": "Transformed my home into a winter wonderland. Highly recommended!"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 13,
+    "productName": "Elegant Diamond Necklace",
+    "color": "White Gold",
+    "rating": 4.9,
+    "soldQuantity": 60,
+    "price": 899.99,
+    "discount": 20,
+    "SKU": "JEWELRY456",
+    "stock": 25,
+    "sizes": ["One Size"],
+    "quantity": 10,
+    "productImage": [
+      "https://i.pinimg.com/236x/60/19/75/601975b34d137b43f1ae164d419e7d19.jpg",
+      "https://i.pinimg.com/564x/85/05/cd/8505cd55d334ed2c2f6264441be39267.jpg",
+      "https://i.pinimg.com/564x/de/23/92/de2392272d7450304d60676a40b83cd2.jpg",
+      "https://i.pinimg.com/564x/1e/89/54/1e8954eb87ffaf90699a9add1f008314.jpg",
+      "https://i.pinimg.com/564x/3f/12/5f/3f125f162fea6fd746be33310cba14cc.jpg"
+    ],
+    "category": "Jewelries",
+    "categoryImage": "",
+    "description": "Adorn yourself with elegance using our Elegant Diamond Necklace. Crafted with precision and featuring exquisite white gold, this necklace is adorned with brilliant diamonds. Make a statement at any special occasion with this timeless piece of jewelry.",
+    "features": [
+      "Genuine diamonds",
+      "Elegant white gold setting",
+      "Perfect for special occasions",
+      "Secure clasp closure"
+    ],
+    "specifications": {
+      "material": "White Gold",
+      "diamondCut": "Round Brilliant",
+      "caratWeight": "1.5 carats"
+    },
+    "reviews": [
+      {
+        "customerName": "Olivia Taylor",
+        "customerImage": "olivia_image.jpg",
+        "rating": 5,
+        "comment": "Absolutely stunning! The diamonds sparkle beautifully."
+      },
+      {
+        "customerName": "Liam Johnson",
+        "customerImage": "liam_image.jpg",
+        "rating": 4.8,
+        "comment": "Elegant and timeless. A perfect addition to my jewelry collection."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 14,
+    "productName": "Classic Chronograph Watch",
+    "color": "Silver",
+    "rating": 4.7,
+    "soldQuantity": 70,
+    "price": 159.99,
+    "discount": 15,
+    "SKU": "WATCH789",
+    "stock": 30,
+    "sizes": ["One Size"],
+    "quantity": 20,
+    "productImage": [
+      "https://i.pinimg.com/564x/ec/09/9e/ec099e8940bc6c50559d87689ca2217f.jpg",
+      "https://i.pinimg.com/236x/e6/26/d0/e626d089446eb0e8395bf98b290a4073.jpg",
+      "https://i.pinimg.com/236x/18/51/14/185114b49eddcc6cdc1432425ed24753.jpg",
+      "https://i.pinimg.com/236x/f1/c3/03/f1c3030b93043627fbd4be098de9a46c.jpg",
+      "https://i.pinimg.com/236x/92/7b/6e/927b6e8d533486a2a15672d2a1c679c4.jpg"
+    ],
+    "category": "Watches",
+    "categoryImage": "",
+    "description": "Enhance your style with our Classic Chronograph Watch. Featuring a sleek silver design and precise chronograph functionality, this watch is a timeless accessory for any occasion. Keep track of time with elegance and sophistication.",
+    "features": [
+      "High-quality stainless steel",
+      "Chronograph functionality",
+      "Water-resistant",
+      "Adjustable metal bracelet"
+    ],
+    "specifications": {
+      "movement": "Quartz",
+      "caseMaterial": "Stainless Steel",
+      "waterResistance": "50 meters",
+      "diameter": "42mm"
+    },
+    "reviews": [
+      {
+        "customerName": "Ethan Davis",
+        "customerImage": "ethan_image.jpg",
+        "rating": 4.5,
+        "comment": "Love the design and functionality of this chronograph watch. Great value!"
+      },
+      {
+        "customerName": "Ava White",
+        "customerImage": "ava_image.jpg",
+        "rating": 5,
+        "comment": "Sleek and stylish. The chronograph feature is a bonus. Highly recommend!"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 15,
+    "productName": "Casual Denim Jacket",
+    "color": "Blue",
+    "rating": 4.5,
+    "soldQuantity": 60,
+    "price": 79.99,
+    "discount": 10,
+    "SKU": "MENJACKET567",
+    "stock": 25,
+    "sizes": ["M", "L", "XL"],
+    "quantity": 15,
+    "productImage": [
+      "https://i.pinimg.com/236x/98/37/87/9837876dc0567ad22e08fab90b7e8261.jpg",
+      "https://i.pinimg.com/236x/d0/ca/2f/d0ca2fe632c454ff23743b705d17dab3.jpg",
+      "https://i.pinimg.com/236x/73/85/eb/7385eb9c744ef8de7a49f80515703926.jpg",
+      "https://i.pinimg.com/236x/de/e6/24/dee624b5bef8a4e71f6dc96c9d9bc6a9.jpg",
+      "https://i.pinimg.com/236x/01/99/59/0199591f6284c59f6cb1f41a1b70f7a8.jpg"
+    ],
+    "category": "Men Fashion",
+    "categoryImage": "",
+    "description": "Upgrade your casual style with our Casual Denim Jacket for men. Crafted from high-quality denim, this jacket offers a comfortable fit and a touch of rugged charm. Perfect for everyday wear, this denim jacket is a versatile addition to your wardrobe.",
+    "features": [
+      "Classic denim fabric",
+      "Button-front closure",
+      "Multiple pockets",
+      "Versatile and comfortable"
+    ],
+    "specifications": {
+      "material": "Denim",
+      "closure": "Button",
+      "careInstructions": "Machine wash cold, tumble dry low"
+    },
+    "reviews": [
+      {
+        "customerName": "Noah Johnson",
+        "customerImage": "noah_image.jpg",
+        "rating": 4.8,
+        "comment": "Great quality and style. The denim feels durable and looks great."
+      },
+      {
+        "customerName": "Sophie Miller",
+        "customerImage": "sophie_image.jpg",
+        "rating": 4.2,
+        "comment": "Love the fit and color. A must-have for any casual wardrobe."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 16,
+    "productName": "Professional Tool Set",
+    "color": "Black/Red",
+    "rating": 4.6,
+    "soldQuantity": 45,
+    "price": 149.99,
+    "discount": 10,
+    "SKU": "TOOLS123",
+    "stock": 20,
+    "sizes": ["One Size"],
+    "quantity": 10,
+    "productImage": [
+      "https://i.pinimg.com/564x/c6/ba/c4/c6bac4643630c27129b7d5a1e9e1a54c.jpg",
+      "https://i.pinimg.com/236x/cb/3d/9a/cb3d9a86be9dd93ccb7f376adf22e465.jpg",
+      "https://i.pinimg.com/564x/fd/4e/3f/fd4e3f65a3a00f55e2be85ec151c02d4.jpg",
+      "https://i.pinimg.com/564x/f4/79/39/f47939da0837873a6d8b56c2c35b8c7a.jpg",
+      "https://i.pinimg.com/236x/69/e2/55/69e25545f12a71d36a8e4a48b566a338.jpg"
+    ],
+    "category": "Tools & Hardware",
+    "categoryImage": "",
+    "description": "Equip yourself with the Professional Tool Set for all your DIY and home improvement needs. This comprehensive tool set features a variety of high-quality tools, ensuring you have the right equipment for any project. Upgrade your toolbox with this durable and reliable set.",
+    "features": [
+      "Variety of essential tools",
+      "Durable construction",
+      "Suitable for DIY and professional use",
+      "Compact and portable case"
+    ],
+    "specifications": {
+      "material": "Steel and Plastic",
+      "includedTools": ["Screwdrivers", "Pliers", "Wrenches", "Hammer", "Measuring Tape"],
+      "caseDimensions": "14 x 10 x 3 inches"
+    },
+    "reviews": [
+      {
+        "customerName": "Benjamin Davis",
+        "customerImage": "benjamin_image.jpg",
+        "rating": 4.8,
+        "comment": "Excellent tool set! Has everything I need for various projects."
+      },
+      {
+        "customerName": "Emily White",
+        "customerImage": "emily_image.jpg",
+        "rating": 4.5,
+        "comment": "Quality tools in a convenient case. Highly recommend for DIY enthusiasts."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 17,
+    "productName": "Pet Grooming Kit",
+    "color": "Blue/White",
+    "rating": 4.9,
+    "soldQuantity": 55,
+    "price": 34.99,
+    "discount": 8,
+    "SKU": "PETSUPPLY456",
+    "stock": 30,
+    "sizes": ["One Size"],
+    "quantity": 15,
+    "productImage": [
+      "https://i.pinimg.com/564x/8a/74/da/8a74da86f90561debe9626fd340b9a86.jpg",
+      "https://i.pinimg.com/564x/23/5a/7c/235a7cd39f4eba9c6e4b05ec7b59f370.jpg",
+      "https://i.pinimg.com/236x/42/cb/e8/42cbe871f3205959988682e606d51a2a.jpg",
+      "https://i.pinimg.com/236x/6f/d9/6e/6fd96e7b9791ff050cb135389b373ceb.jpg",
+      "https://i.pinimg.com/236x/de/ab/29/deab29f0ce2353a8ee44f6503a89f7e4.jpg"
+    ],
+    "category": "Pet Supplies",
+    "categoryImage": "",
+    "description": "Keep your furry friend looking their best with our Pet Grooming Kit. This grooming set includes essential tools for pet care, ensuring a comfortable grooming experience for your pets. Make grooming a breeze with this high-quality and easy-to-use kit.",
+    "features": [
+      "Gentle grooming tools",
+      "Easy to use and clean",
+      "Ideal for cats and dogs",
+      "Comfortable for pets"
+    ],
+    "specifications": {
+      "includedTools": ["Slicker Brush", "Nail Clippers", "Comb", "Scissors", "Grooming Glove"],
+      "material": "Plastic and Stainless Steel",
+      "kitDimensions": "10 x 8 x 2 inches"
+    },
+    "reviews": [
+      {
+        "customerName": "Sophia Johnson",
+        "customerImage": "sophia_image.jpg",
+        "rating": 5,
+        "comment": "Great grooming kit for my cat. Easy to use and effective."
+      },
+      {
+        "customerName": "Ethan Miller",
+        "customerImage": "ethan_image.jpg",
+        "rating": 4.8,
+        "comment": "High-quality tools. My dog loves the grooming glove!"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 19,
+    "productName": "Winter Wonderland Decor Set",
+    "color": "Multi-color",
+    "rating": 4.7,
+    "soldQuantity": 80,
+    "price": 79.99,
+    "discount": 15,
+    "SKU": "SEASONAL567",
+    "stock": 30,
+    "sizes": ["One Size"],
+    "quantity": 10,
+    "productImage": [
+      "https://i.pinimg.com/236x/8a/a4/0a/8aa40a1cb2b7a2681b294c3efafd6cd0.jpg",
+      "https://i.pinimg.com/564x/fa/5f/b1/fa5fb11d3642324a190d9bedd3213d5a.jpg",
+      "https://i.pinimg.com/564x/88/d8/bf/88d8bf29c410aa806b456de68dce02d9.jpg",
+      "https://i.pinimg.com/564x/10/8b/40/108b408ff72e2770f01d1873612b121d.jpg",
+      "https://i.pinimg.com/236x/48/3d/3e/483d3ed2c3908235c17d7bc3c5977065.jpg"
+    ],
+    "category": "Seasonal",
+    "description": "Transform your home into a winter wonderland with our Winter Wonderland Decor Set. This festive set includes a variety of seasonal decorations to bring warmth and joy to your living space. Perfect for holiday gatherings and creating a cozy atmosphere during the winter season.",
+    "features": [
+      "Assorted winter-themed decorations",
+      "Warm and festive colors",
+      "Ideal for home decor",
+      "Create a cozy winter atmosphere"
+    ],
+    "specifications": {
+      "includedDecorations": ["Snowflakes", "Candles", "Ornaments", "Garland", "Cozy Blankets"],
+      "material": "Various",
+      "setDimensions": "Various sizes"
+    },
+    "reviews": [
+      {
+        "customerName": "Emma Davis",
+        "customerImage": "emma_image.jpg",
+        "rating": 4.5,
+        "comment": "Beautiful winter decor set. Love the festive feel it brings to my home."
+      },
+      {
+        "customerName": "Oliver White",
+        "customerImage": "oliver_image.jpg",
+        "rating": 5,
+        "comment": "High-quality decorations. Perfect for creating a winter ambiance."
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": 20,
+    "productName": "His and Hers Matching Hoodies",
+    "color": "Black/White",
+    "rating": 4.9,
+    "soldQuantity": 100,
+    "price": 59.99,
+    "discount": 10,
+    "SKU": "COUPLE789",
+    "stock": 40,
+    "sizes": ["S", "M", "L", "XL"],
+    "quantity": 20,
+    "productImage": [
+      "https://i.pinimg.com/236x/d3/cd/83/d3cd83229e8cd43cd75d73c3f95ba55b.jpg",
+      "https://i.pinimg.com/564x/e7/fc/55/e7fc5579473cae741f04f8c047c4449a.jpg",
+      "https://i.pinimg.com/236x/55/1d/f9/551df982af74f0cd10a466636aef0d0f.jpg",
+      "https://i.pinimg.com/736x/4d/89/af/4d89af1f9c9bfc367f0ffdd84cac985e.jpg",
+      "https://i.pinimg.com/564x/06/bb/14/06bb14cd976768155122edc955c6d1b8.jpg"
+    ],
+    "category": "Couple",
+    "description": "Express your love with our His and Hers Matching Hoodies. Made from high-quality cotton, these hoodies are not only comfortable but also stylish. Perfect for couples who want to showcase their connection with matching outfits. Share the love and warmth with this adorable couple's hoodie set.",
+    "features": [
+      "Matching couple hoodies",
+      "Soft and comfortable material",
+      "Stylish design with contrasting colors",
+      "Perfect for casual outings"
+    ],
+    "specifications": {
+      "material": "Cotton",
+      "careInstructions": "Machine wash cold, tumble dry low",
+      "hisHoodieColor": "Black",
+      "hersHoodieColor": "White"
+    },
+    "reviews": [
+      {
+        "customerName": "Alex Johnson",
+        "customerImage": "alex_image.jpg",
+        "rating": 5,
+        "comment": "Adorable matching hoodies! Great quality and comfortable."
+      },
+      {
+        "customerName": "Emily Brown",
+        "customerImage": "emily_image.jpg",
+        "rating": 4.8,
+        "comment": "Love the idea of matching with my partner. Highly recommend!"
+      }
+    ],
+    "featured": true
+  }
+  
+  
+  
+]

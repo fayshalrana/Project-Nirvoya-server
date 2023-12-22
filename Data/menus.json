@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Women's Fashion",
+    "submenus": [
+      {
+        "name": "Saree",
+        "item": [
+          "Cotton",
+          "Silk",
+          "Katan",
+          "Muslin",
+          "Jamdani",
+          "Georgette",
+          "Nakshi Kantha",
+          "Linen",
+          "Khadi",
+          "Tangail Taant",
+          "Monipuri",
+          "Dhakai Benaroshi"
+        ]
+      },
+      {
+        "name": "Clothes",
+        "item": [
+          "T-shirt",
+          "Shorts",
+          "Shirt",
+          "Tracksuit",
+          "Jeans",
+          "Georgette",
+          "Waistcoat",
+          "Sweater",
+          "coats",
+          "Suit",
+          "Sweatshirt",
+          "Uniform"
+        ]
+      },
+      {
+        "name": "Cosmetic",
+        "item": [
+          "Perfume",
+          "Eye make-up",
+          "Skin care",
+          "Hair care",
+          "Make-up",
+          "Oral Care",
+          "Body Care",
+          "Sanitary pad",
+          "Shower Gels & Creams",
+          "Hair Removal Products",
+          "Lipstick",
+          "Suntan cream"
+        ]
+      },
+      {
+        "name": "Sports & Outdoor",
+        "item": [
+          "Sweatshirt",
+          "T-shirt",
+          "Sports Bra",
+          "Leggings",
+          "Leggings",
+          "Running Shoes",
+          "Sports Bag",
+          "Sports Equipment",
+          "Outdoor Shoes",
+          "Snow Boot",
+          "Outdoor Equipment",
+          "Sports Accessories"
+        ]
+      },
+      {
+        "name": "Personal Care",
+        "item": [
+          "Perfume",
+          "Sexual Health",
+          "After Shave Products",
+          "Razor blade"
+        ]
+      },
+      {
+        "name": "Shoes",
+        "item": [
+          "Heeled shoes",
+          "sneakers",
+          "Casual Shoes",
+          "Babet",
+          "Sandals",
+          "Slipper"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Men's Fashion",
+    "submenus": [
+      {
+        "name": "Clothes",
+        "item": [
+          "T-shirt",
+          "Shorts",
+          "Shirt",
+          "Tracksuit",
+          "Jeans",
+          "Georgette",
+          "Waistcoat",
+          "Sweater",
+          "Coats",
+          "Suit",
+          "Sweatshirt",
+          "Uniform"
+        ]
+      },
+      {
+        "name": "Footwear",
+        "item": [
+          "Formal Shoes",
+          "Casual Shoes",
+          "Sneakers",
+          "Boots",
+          "Loafers",
+          "Slippers",
+          "Casual Shoes",
+          "Sneakers",
+          "Boots",
+          "Loafers",
+          "Slippers"
+        ]
+      },
+      {
+        "name": "Accessories",
+        "item": [
+          "Ties",
+          "Belts",
+          "Watches",
+          "Hats",
+          "Scarves",
+          "Cufflinks",
+          "Sunglasses",
+          "Wallets",
+          "Scarves",
+          "Cufflinks",
+          "Sunglasses",
+          "Wallets"
+        ]
+      },
+      {
+        "name": "Sports & Outdoor",
+        "item": [
+          "Sweatshirt",
+          "T-shirt",
+          "Sports Bra",
+          "Leggings",
+          "Leggings",
+          "Running Shoes",
+          "Sports Bag",
+          "Sports Equipment",
+          "Outdoor Shoes",
+          "Snow Boot",
+          "Outdoor Equipment",
+          "Sports Accessories"
+        ]
+      },
+      {
+        "name": "Grooming",
+        "item": [
+          "Cologne",
+          "Sexual Health",
+          "After Shave Products",
+          "Razor Blade"
+        ]
+      },
+      {
+        "name": "Shoes",
+        "item": [
+          "Heeled Shoes",
+          "Sneakers",
+          "Casual Shoes",
+          "Babet",
+          "Sandals",
+          "Slipper"
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Kid's Fashion",
+    "submenus": [
+      {
+        "name": "Clothes",
+        "item": [
+          "T-shirt",
+          "Shorts",
+          "Dresses",
+          "Jeans",
+          "Pajamas",
+          "Jackets",
+          "Sweaters",
+          "Swimwear",
+          "Uniforms",
+          "Jackets",
+          "Sweaters",
+          "Swimwear",
+          "Uniforms"
+        ]
+      },
+      {
+        "name": "Footwear",
+        "item": [
+          "Sneakers",
+          "Sandals",
+          "Boots",
+          "Casual Shoes",
+          "Slippers",
+          "Hats",
+          "Scarves",
+          "Gloves",
+          "Belts",
+          "Socks",
+          "Backpacks"
+        ]
+      },
+      {
+        "name": "Accessories",
+        "item": [
+          "Hats",
+          "Scarves",
+          "Gloves",
+          "Belts",
+          "Socks",
+          "Backpacks",
+          "Hats",
+          "Scarves",
+          "Gloves",
+          "Belts",
+          "Socks",
+          "Backpacks"
+        ]
+      },
+      {
+        "name": "School Essentials",
+        "item": [
+          "Backpacks",
+          "Lunchboxes",
+          "Water Bottles",
+          "Stationery",
+          "School Uniforms",
+          "Lunchboxes",
+          "Water Bottles",
+          "Stationery",
+          "School Uniforms"
+        ]
+      },
+      {
+        "name": "Toys & Games",
+        "item": [
+          "Educational Toys",
+          "Board Games",
+          "Outdoor Games",
+          "Building Blocks",
+          "Dolls"
+        ]
+      },
+      {
+        "name": "Party Wear",
+        "item": [
+          "Party Dresses",
+          "Suits",
+          "Bow Ties",
+          "Party Shoes",
+          "Accessories"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Home & Lifestyle",
+    "submenus": [
+      {
+        "name": "Furniture",
+        "item": [
+          "Living Room Furniture",
+          "Bedroom Furniture",
+          "Dining Room Furniture",
+          "Office Furniture",
+          "Outdoor Furniture",
+          "Living Room Furniture",
+          "Bedroom Furniture",
+          "Dining Room Furniture",
+          "Office Furniture",
+          "Outdoor Furniture"
+        ]
+      },
+      {
+        "name": "Home Decor",
+        "item": [
+          "Wall Art",
+          "Candles",
+          "Mirrors",
+          "Clocks",
+          "Vases",
+          "Decorative Pillows",
+          "Wall Art",
+          "Candles",
+          "Mirrors",
+          "Clocks",
+          "Vases",
+          "Decorative Pillows"
+        ]
+      },
+      {
+        "name": "Kitchen & Dining",
+        "item": [
+          "Cookware",
+          "Cutlery",
+          "Dinnerware",
+          "Drinkware",
+          "Kitchen Appliances",
+          "Storage",
+          "Cookware",
+          "Cutlery",
+          "Dinnerware",
+          "Drinkware",
+          "Kitchen Appliances",
+          "Storage"
+        ]
+      },
+      {
+        "name": "Bedding",
+        "item": [
+          "Bed Linens",
+          "Comforters",
+          "Pillows",
+          "Blankets",
+          "Quilts",
+          "Bed Linens",
+          "Comforters",
+          "Pillows",
+          "Blankets",
+          "Quilts"
+        ]
+      },
+      {
+        "name": "Bath",
+        "item": [
+          "Towels",
+          "Shower Curtains",
+          "Bath Mats",
+          "Toiletries",
+          "Bathroom Storage"
+        ]
+      },
+      {
+        "name": "Outdoor Living",
+        "item": [
+          "Patio Furniture",
+          "Grills",
+          "Outdoor Decor",
+          "Gardening Tools",
+          "Outdoor Lighting"
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Arts & Crafts",
+    "submenus": [
+      {
+        "name": "Drawing",
+        "item": [
+          "Sketch Pads",
+          "Pencils",
+          "Erasers",
+          "Charcoal",
+          "Pastels",
+          "Markers",
+          "Colored Pencils",
+          "Watercolor Paints",
+          "Markers",
+          "Colored Pencils",
+          "Watercolor Paints"
+        ]
+      },
+      {
+        "name": "Painting",
+        "item": [
+          "Canvas",
+          "Acrylic Paints",
+          "Oil Paints",
+          "Watercolor Paints",
+          "Paintbrushes",
+          "Palette",
+          "Easels",
+          "Watercolor Paints",
+          "Paintbrushes",
+          "Palette",
+          "Easels"
+        ]
+      },
+      {
+        "name": "Craft Supplies",
+        "item": [
+          "Glue",
+          "Scissors",
+          "Paper",
+          "Craft Sticks",
+          "Ribbons",
+          "Buttons",
+          "Beads",
+          "Fabric",
+          "Glue",
+          "Fabric"
+        ]
+      },
+      {
+        "name": "DIY Kits",
+        "item": [
+          "Jewelry Making Kits",
+          "Model Kits",
+          "Paint by Numbers Kits",
+          "Origami Kits",
+          "Craft Project Kits",
+          "Jewelry Making Kits",
+          "Model Kits",
+          "Paint by Numbers Kits",
+          "Origami Kits",
+          "Craft Project Kits"
+        ]
+      },
+      {
+        "name": "Printmaking",
+        "item": [
+          "Linocut Tools",
+          "Printing Ink",
+          "Printing Rollers",
+          "Printing Paper",
+          "Carving Blocks"
+        ]
+      },
+      {
+        "name": "Sculpture",
+        "item": [
+          "Clay",
+          "Sculpting Tools",
+          "Armature Wire",
+          "Modeling Paste",
+          "Carving Tools"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Computer & Electronics",
+    "submenus": [
+      {
+        "name": "Laptops & Computers",
+        "item": [
+          "Laptops",
+          "Desktops",
+          "Monitors",
+          "Keyboards",
+          "Mice",
+          "Webcams",
+          "Printers",
+          "Scanners",
+          "Keyboards",
+          "Mice",
+          "Webcams",
+          "Printers",
+          "Scanners"
+        ]
+      },
+      {
+        "name": "Computer Accessories",
+        "item": [
+          "External Hard Drives",
+          "USB Flash Drives",
+          "Mouse Pads",
+          "Laptop Bags",
+          "Headsets",
+          "Speakers",
+          "External Hard Drives",
+          "USB Flash Drives",
+          "Mouse Pads",
+          "Laptop Bags",
+          "Headsets",
+          "Speakers"
+        ]
+      },
+      {
+        "name": "Smartphones & Accessories",
+        "item": [
+          "Smartphones",
+          "Phone Cases",
+          "Screen Protectors",
+          "Chargers",
+          "Headphones",
+          "Power Banks",
+          "Smartphones",
+          "Phone Cases",
+          "Screen Protectors",
+          "Chargers",
+          "Headphones",
+          "Power Banks"
+        ]
+      },
+      {
+        "name": "Audio & Headphones",
+        "item": [
+          "Headphones",
+          "Earbuds",
+          "Wireless Speakers",
+          "Soundbars",
+          "Microphones",
+          "Audio Cables",
+          "Headphones",
+          "Earbuds",
+          "Wireless Speakers",
+          "Soundbars",
+          "Microphones",
+          "Audio Cables"
+        ]
+      },
+      {
+        "name": "Cameras & Photography",
+        "item": ["Digital Cameras", "DSLR Cameras", "Camera Lenses", "Tripods"]
+      },
+      {
+        "name": "Gaming",
+        "item": [
+          "Gaming Consoles",
+          "Gaming Laptops",
+          "Gaming Desktops",
+          "Controllers"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Food & Grocery",
+    "submenus": [
+      {
+        "name": "Fresh Produce",
+        "item": [
+          "Fruits",
+          "Vegetables",
+          "Herbs",
+          "Leafy Greens",
+          "Berries",
+          "Root Vegetables",
+          "Herbs",
+          "Leafy Greens",
+          "Berries",
+          "Root Vegetables"
+        ]
+      },
+      {
+        "name": "Bakery",
+        "item": [
+          "Bread",
+          "Pastries",
+          "Cakes",
+          "Cookies",
+          "Muffins",
+          "Bagels",
+          "Gluten-Free Options",
+          "Cookies",
+          "Muffins",
+          "Bagels",
+          "Gluten-Free Options"
+        ]
+      },
+      {
+        "name": "Dairy & Eggs",
+        "item": [
+          "Milk",
+          "Cheese",
+          "Yogurt",
+          "Butter",
+          "Eggs",
+          "Cream",
+          "Plant-Based Alternatives",
+          "Butter",
+          "Eggs",
+          "Cream",
+          "Plant-Based Alternatives"
+        ]
+      },
+      {
+        "name": "Pantry Staples",
+        "item": [
+          "Rice",
+          "Pasta",
+          "Canned Goods",
+          "Beans",
+          "Flour",
+          "Sugar",
+          "Spices",
+          "Oils",
+          "Flour",
+          "Sugar",
+          "Spices",
+          "Oils"
+        ]
+      },
+      {
+        "name": "Snacks",
+        "item": [
+          "Chips",
+          "Nuts",
+          "Dried Fruits",
+          "Popcorn",
+          "Granola Bars",
+          "Crackers",
+          "Trail Mix"
+        ]
+      },
+      {
+        "name": "Beverages",
+        "item": [
+          "Coffee",
+          "Tea",
+          "Juices",
+          "Soft Drinks"
+        ]
+      }
+    ]
+  }
+]

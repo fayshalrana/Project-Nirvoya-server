@@ -1,0 +1,17 @@
+[
+    { "id": 1, "categoryName": "Health & Household", "categoryImage": "https://iili.io/JA8T4a9.png" },
+    { "id": 3, "categoryName": "Kids Fashion", "categoryImage": "https://iili.io/JA8az9S.png" },
+    { "id": 4, "categoryName": "Toys", "categoryImage": "https://iili.io/JA81XmN.png" },
+    { "id": 5, "categoryName": "Groceries", "categoryImage": "https://iili.io/JA8W9Sa.png" },
+    { "id": 6, "categoryName": "Home & Lifestyle", "categoryImage": "https://iili.io/JA8SXKx.png" },
+    { "id": 2, "categoryName": "Men Fashion", "categoryImage": "https://iili.io/JA8gaj9.png" },
+    { "id": 7, "categoryName": "Women’s Fashion", "categoryImage": "https://iili.io/JA84rXt.png" },
+    { "id": 8, "categoryName": "Stationery & Books", "categoryImage": "https://iili.io/JA848ep.png" },
+    { "id": 9, "categoryName": "Leather Goods", "categoryImage": "https://iili.io/JA84v7R.png" },
+    { "id": 10, "categoryName": "Seasonal", "categoryImage": "https://iili.io/JA84gII.png" },
+    { "id": 11, "categoryName": "Jewelries", "categoryImage": "https://iili.io/JA844LX.png" },
+    { "id": 12, "categoryName": "Watches", "categoryImage": "https://iili.io/JA84kdv.png" },
+    { "id": 13, "categoryName": "Tools & Hardware", "categoryImage": "https://iili.io/JA848ep.png" },
+    { "id": 14, "categoryName": "Pet Supplies", "categoryImage": "https://iili.io/JA81XmN.png" },
+    { "id": 15, "categoryName": "Couple", "categoryImage": "https://iili.io/JA8T4a9.png" }
+  ]
