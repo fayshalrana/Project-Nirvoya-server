@@ -70,7 +70,6 @@
     "categoryImage": "",
     "description": "The Health Pack XYZ is a comprehensive package designed for your well-being. Packed with essential health and household items, this bundle is curated to support a healthy lifestyle. From vitamins to household cleaners, get everything you need in one convenient pack.",
     "features": [
-      
       "Complete health package",
       "Essential household items",
       "High-quality ingredients",
@@ -397,7 +396,6 @@
     "rating": 4.7,
     "soldQuantity": 90,
     "price": 29.99,
-    "discount": 12,
     "SKU": "STATIONERYBOOKS789",
     "stock": 40,
     "sizes": ["A5"],
@@ -447,7 +445,6 @@
     "rating": 4.6,
     "soldQuantity": 80,
     "price": 49.99,
-    "discount": 10,
     "SKU": "LEATHERGOODS123",
     "stock": 35,
     "sizes": ["One Size"],
@@ -496,7 +493,6 @@
     "rating": 4.7,
     "soldQuantity": 40,
     "price": 59.99,
-    "discount": 15,
     "SKU": "SEASONAL789",
     "stock": 25,
     "sizes": ["One Size"],
@@ -518,7 +514,13 @@
       "Create a joyful atmosphere"
     ],
     "specifications": {
-      "includedDecorations": ["Ornaments", "Garland", "Candles", "Stockings", "Tree Topper"],
+      "includedDecorations": [
+        "Ornaments",
+        "Garland",
+        "Candles",
+        "Stockings",
+        "Tree Topper"
+      ],
       "material": "Various",
       "setDimensions": "Various sizes"
     },
@@ -545,7 +547,6 @@
     "rating": 4.9,
     "soldQuantity": 60,
     "price": 899.99,
-    "discount": 20,
     "SKU": "JEWELRY456",
     "stock": 25,
     "sizes": ["One Size"],
@@ -594,7 +595,6 @@
     "rating": 4.7,
     "soldQuantity": 70,
     "price": 159.99,
-    "discount": 15,
     "SKU": "WATCH789",
     "stock": 30,
     "sizes": ["One Size"],
@@ -644,7 +644,6 @@
     "rating": 4.5,
     "soldQuantity": 60,
     "price": 79.99,
-    "discount": 10,
     "SKU": "MENJACKET567",
     "stock": 25,
     "sizes": ["M", "L", "XL"],
@@ -693,7 +692,6 @@
     "rating": 4.6,
     "soldQuantity": 45,
     "price": 149.99,
-    "discount": 10,
     "SKU": "TOOLS123",
     "stock": 20,
     "sizes": ["One Size"],
@@ -716,7 +714,13 @@
     ],
     "specifications": {
       "material": "Steel and Plastic",
-      "includedTools": ["Screwdrivers", "Pliers", "Wrenches", "Hammer", "Measuring Tape"],
+      "includedTools": [
+        "Screwdrivers",
+        "Pliers",
+        "Wrenches",
+        "Hammer",
+        "Measuring Tape"
+      ],
       "caseDimensions": "14 x 10 x 3 inches"
     },
     "reviews": [
@@ -742,7 +746,6 @@
     "rating": 4.9,
     "soldQuantity": 55,
     "price": 34.99,
-    "discount": 8,
     "SKU": "PETSUPPLY456",
     "stock": 30,
     "sizes": ["One Size"],
@@ -764,7 +767,13 @@
       "Comfortable for pets"
     ],
     "specifications": {
-      "includedTools": ["Slicker Brush", "Nail Clippers", "Comb", "Scissors", "Grooming Glove"],
+      "includedTools": [
+        "Slicker Brush",
+        "Nail Clippers",
+        "Comb",
+        "Scissors",
+        "Grooming Glove"
+      ],
       "material": "Plastic and Stainless Steel",
       "kitDimensions": "10 x 8 x 2 inches"
     },
@@ -791,7 +800,6 @@
     "rating": 4.7,
     "soldQuantity": 80,
     "price": 79.99,
-    "discount": 15,
     "SKU": "SEASONAL567",
     "stock": 30,
     "sizes": ["One Size"],
@@ -812,7 +820,13 @@
       "Create a cozy winter atmosphere"
     ],
     "specifications": {
-      "includedDecorations": ["Snowflakes", "Candles", "Ornaments", "Garland", "Cozy Blankets"],
+      "includedDecorations": [
+        "Snowflakes",
+        "Candles",
+        "Ornaments",
+        "Garland",
+        "Cozy Blankets"
+      ],
       "material": "Various",
       "setDimensions": "Various sizes"
     },
@@ -839,7 +853,6 @@
     "rating": 4.9,
     "soldQuantity": 100,
     "price": 59.99,
-    "discount": 10,
     "SKU": "COUPLE789",
     "stock": 40,
     "sizes": ["S", "M", "L", "XL"],
@@ -880,8 +893,100 @@
       }
     ],
     "featured": true
+  },
+  {
+    "id": 21,
+    "productName": "Cozy Winter Knit Hat",
+    "color": "Gray",
+    "rating": 4.7,
+    "soldQuantity": 80,
+    "price": 24.99,
+    "SKU": "WINTERHAT123",
+    "stock": 30,
+    "sizes": ["One Size"],
+    "quantity": 15,
+    "productImage": [
+      "https://i.pinimg.com/564x/35/b8/c7/35b8c714619964f066477859b5ffa5b5.jpg",
+      "https://i.pinimg.com/564x/59/17/00/591700f4c97bbf4430e108a6cf2bf48c.jpg",
+      "https://i.pinimg.com/564x/0f/73/22/0f73228a7848df080fa49f6b54538d90.jpg",
+      "https://i.pinimg.com/564x/84/93/f1/8493f1fb74edba480646c919311e127e.jpg",
+      "https://i.pinimg.com/564x/cf/c2/50/cfc2506ac7506f3d37ddd10c6bdd609d.jpg"
+    ],
+    "category": "Winter Accessories",
+    "description": "Stay warm and stylish this winter with our Cozy Winter Knit Hat. Made from premium quality wool blend, this hat ensures maximum warmth and comfort. The classic knit design adds a touch of elegance to your winter ensemble. Whether you're hitting the slopes or strolling through the city, this hat is a must-have accessory for the cold season.",
+    "features": [
+      "Warm and comfortable knit material",
+      "One size fits all",
+      "Classic design for versatile styling",
+      "Ideal for outdoor activities in cold weather"
+    ],
+    "specifications": {
+      "material": "Wool blend",
+      "careInstructions": "Hand wash cold, lay flat to dry",
+      "size": "One Size",
+      "color": "Gray"
+    },
+    "reviews": [
+      {
+        "customerName": "Sarah Smith",
+        "customerImage": "sarah_image.jpg",
+        "rating": 4.5,
+        "comment": "Love this hat! It's so warm and cozy."
+      },
+      {
+        "customerName": "Mike Davis",
+        "customerImage": "mike_image.jpg",
+        "rating": 4.8,
+        "comment": "Great quality hat. Keeps me warm during my outdoor activities."
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": 22,
+    "productName": "Minimalist Leather Wallet",
+    "color": "Brown",
+    "rating": 4.6,
+    "soldQuantity": 120,
+    "price": 39.99,
+    "SKU": "WALLET456",
+    "stock": 50,
+    "sizes": ["One Size"],
+    "quantity": 25,
+    "productImage": [
+      "https://i.pinimg.com/564x/e0/aa/b9/e0aab9478674582af0de6724c4bfe8be.jpg",
+      "https://i.pinimg.com/564x/b0/2f/13/b02f13be1517fe7d1fe686966c89426c.jpg",
+      "https://i.pinimg.com/564x/7d/e1/57/7de157dfd7db0720084a6f9ec62888f7.jpg",
+      "https://i.pinimg.com/564x/79/8f/22/798f2289411943458560d6af1b74096c.jpg",
+      "https://i.pinimg.com/564x/9d/42/fc/9d42fc78e9329d7c7fd801e4479361c8.jpg"
+    ],
+    "category": "Accessories",
+    "description": "Simplify your life with our Minimalist Leather Wallet. Crafted from genuine leather, this wallet offers durability and style. Its compact design fits comfortably in your pocket while providing ample space for your essentials. Stay organized and look effortlessly chic with this timeless accessory.",
+    "features": [
+      "Genuine leather construction",
+      "Compact and lightweight design",
+      "Multiple compartments for cards and cash",
+      "Classic minimalist style"
+    ],
+    "specifications": {
+      "material": "Genuine Leather",
+      "dimensions": "3.5\" x 4.5\"",
+      "color": "Brown"
+    },
+    "reviews": [
+      {
+        "customerName": "John Doe",
+        "customerImage": "john_image.jpg",
+        "rating": 4.7,
+        "comment": "Excellent quality wallet. Fits all my cards without bulking up."
+      },
+      {
+        "customerName": "Emma Lee",
+        "customerImage": "emma_image.jpg",
+        "rating": 4.5,
+        "comment": "Love the minimalist design. Perfect for everyday use."
+      }
+    ],
+    "featured": false
   }
-  
-  
-  
 ]
