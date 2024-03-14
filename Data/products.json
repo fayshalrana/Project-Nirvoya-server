@@ -988,5 +988,287 @@
       }
     ],
     "featured": false
+  },
+  {
+    "id": 23,
+    "productName": "Portable Bluetooth Speaker",
+    "color": "Black",
+    "rating": 4.3,
+    "soldQuantity": 150,
+    "price": 79.99,
+    "SKU": "BLUETOOTHSPEAKER789",
+    "stock": 20,
+    "sizes": ["One Size"],
+    "quantity": 10,
+    "productImage": [
+      "https://i.pinimg.com/564x/ac/23/7f/ac237f901f52afd369df2ce53a7ed64e.jpg",
+      "https://i.pinimg.com/564x/6b/08/63/6b0863e64aafd997a5b25548433110e7.jpg",
+      "https://i.pinimg.com/564x/68/24/d1/6824d1164a2f9e93d39c1e87a00f9d01.jpg",
+      "https://i.pinimg.com/564x/08/86/65/0886654efcb50e20aa13d3de9c34c85d.jpg",
+      "https://i.pinimg.com/564x/48/21/eb/4821eb9f978ac16a8f28a827b7e05443.jpg"
+    ],
+    "category": "Electronics",
+    "description": "Experience immersive sound wherever you go with our Portable Bluetooth Speaker. Featuring advanced Bluetooth technology, this speaker delivers crisp and clear audio quality. Its compact and lightweight design makes it perfect for travel, outdoor adventures, or simply relaxing at home. Bring the party with you and enjoy your favorite tunes anytime, anywhere.",
+    "features": [
+      "Wireless Bluetooth connectivity",
+      "High-quality sound output",
+      "Compact and portable design",
+      "Long-lasting battery life"
+    ],
+    "specifications": {
+      "connectivity": "Bluetooth 5.0",
+      "batteryLife": "Up to 10 hours",
+      "color": "Black"
+    },
+    "reviews": [
+      {
+        "customerName": "Michael Johnson",
+        "customerImage": "michael_image.jpg",
+        "rating": 4.2,
+        "comment": "Great sound quality for its size. Easy to connect and use."
+      },
+      {
+        "customerName": "Sophia Clark",
+        "customerImage": "sophia_image.jpg",
+        "rating": 4.5,
+        "comment": "Love this speaker! Perfect for picnics and outdoor gatherings."
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": 24,
+    "productName": "Stainless Steel Water Bottle",
+    "color": "Silver",
+    "rating": 4.8,
+    "soldQuantity": 200,
+    "price": 19.99,
+    "SKU": "WATERBOTTLE456",
+    "stock": 100,
+    "sizes": ["One Size"],
+    "quantity": 50,
+    "productImage": [
+      "https://i.pinimg.com/564x/7b/91/be/7b91be7fda274e7928c20f64af3d09c8.jpg",
+      "https://i.pinimg.com/564x/01/61/2e/01612e1d537d6761d45cf7c19e1826f8.jpg",
+      "https://i.pinimg.com/564x/eb/6e/7c/eb6e7ce4ccc0d91a01dc79e4580f1b28.jpg",
+      "https://i.pinimg.com/564x/a0/2b/a2/a02ba267c23dc0842186655a26bd3136.jpg",
+      "https://i.pinimg.com/564x/71/ba/9d/71ba9dbc13fe58e97e7ce537aa2f9113.jpg"
+    ],
+    "category": "Outdoor Gear",
+    "description": "Stay hydrated on-the-go with our Stainless Steel Water Bottle. Made from durable stainless steel, this bottle is built to last and withstand the rigors of everyday use. Its sleek design and leak-proof cap make it the perfect companion for hiking, camping, gym workouts, or simply staying hydrated throughout the day.",
+    "features": [
+      "Durable stainless steel construction",
+      "Leak-proof cap for added convenience",
+      "Sleek and stylish design",
+      "Large capacity for ample hydration"
+    ],
+    "specifications": {
+      "material": "Stainless Steel",
+      "capacity": "24 oz",
+      "color": "Silver"
+    },
+    "reviews": [
+      {
+        "customerName": "Olivia Williams",
+        "customerImage": "olivia_image.jpg",
+        "rating": 4.9,
+        "comment": "Great water bottle! Keeps my drinks cold for hours."
+      },
+      {
+        "customerName": "Daniel Brown",
+        "customerImage": "daniel_image.jpg",
+        "rating": 4.7,
+        "comment": "Very pleased with this purchase. Highly recommended!"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": 25,
+    "productName": "Vintage Leather Messenger Bag",
+    "color": "Brown",
+    "rating": 4.6,
+    "soldQuantity": 90,
+    "price": 129.99,
+    "SKU": "MESSENGERBAG789",
+    "stock": 15,
+    "sizes": ["Medium"],
+    "quantity": 8,
+    "productImage": [
+      "https://i.pinimg.com/564x/af/ae/d1/afaed15b464af14599d3bec92de8c9f8.jpg",
+      "https://i.pinimg.com/564x/6f/97/36/6f9736c28e8e125b700acd273ddb6c01.jpg",
+      "https://i.pinimg.com/564x/15/07/55/1507554419a61cdcbf1a0c815edf6a33.jpg",
+      "https://i.pinimg.com/564x/4f/ef/5f/4fef5f82dcbb2ba80f6bc77151fea240.jpg",
+      "https://i.pinimg.com/736x/23/d8/7c/23d87c693ceea08c6f998c31111925d6.jpg"
+    ],
+    "category": "Bags",
+    "description": "Add a touch of vintage charm to your daily commute with our Vintage Leather Messenger Bag. Crafted from genuine leather, this bag combines style with functionality. It features multiple compartments to keep your belongings organized and secure. Whether you're heading to work or exploring the city, this timeless messenger bag is the perfect companion.",
+    "features": [
+      "Genuine leather construction",
+      "Multiple compartments for organization",
+      "Adjustable shoulder strap for comfort",
+      "Classic vintage design"
+    ],
+    "specifications": {
+      "material": "Genuine Leather",
+      "dimensions": "14\" x 11\" x 4\"",
+      "color": "Brown"
+    },
+    "reviews": [
+      {
+        "customerName": "Matthew Taylor",
+        "customerImage": "matthew_image.jpg",
+        "rating": 4.8,
+        "comment": "Beautiful bag with ample storage space. Love the vintage look."
+      },
+      {
+        "customerName": "Ella Wilson",
+        "customerImage": "ella_image.jpg",
+        "rating": 4.5,
+        "comment": "Excellent quality and craftsmanship. Highly recommend!"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": 26,
+    "productName": "Bamboo Cutting Board Set",
+    "color": "Natural",
+    "rating": 4.9,
+    "soldQuantity": 120,
+    "price": 34.99,
+    "SKU": "CUTTINGBOARD456",
+    "stock": 40,
+    "sizes": ["Set of 3"],
+    "quantity": 30,
+    "productImage": [
+      "https://i.pinimg.com/564x/72/06/c6/7206c65a7e65c714e5e75a6547e18b09.jpg",
+      "https://i.pinimg.com/564x/cf/10/ac/cf10aca707800088cd136f110102477e.jpg",
+      "https://i.pinimg.com/564x/e2/d0/ab/e2d0abcdf5fcd27a292a64418f8a9f0b.jpg",
+      "https://i.pinimg.com/564x/c7/60/63/c760636c87130e9aa5d5086c38423d41.jpg",
+      "https://i.pinimg.com/564x/22/bd/6a/22bd6a5755409e616d4e74babee84020.jpg"
+    ],
+    "category": "Kitchenware",
+    "description": "Upgrade your kitchen essentials with our Bamboo Cutting Board Set. Made from sustainable bamboo, these cutting boards are durable, eco-friendly, and gentle on knives. The set includes three different sizes to accommodate all your chopping and slicing needs. Whether you're a novice cook or a seasoned chef, these cutting boards are a must-have for any kitchen.",
+    "features": [
+      "Made from sustainable bamboo",
+      "Gentle on knives",
+      "Set of three different sizes",
+      "Easy to clean and maintain"
+    ],
+    "specifications": {
+      "material": "Bamboo",
+      "sizes": "Small, Medium, Large",
+      "color": "Natural"
+    },
+    "reviews": [
+      {
+        "customerName": "David Thompson",
+        "customerImage": "david_image.jpg",
+        "rating": 5,
+        "comment": "Great quality cutting boards. Love the different sizes."
+      },
+      {
+        "customerName": "Sophie Martinez",
+        "customerImage": "sophie_image.jpg",
+        "rating": 4.8,
+        "comment": "Beautiful and functional set. Highly recommended!"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": 27,
+    "productName": "Stainless Steel Travel Mug",
+    "color": "Silver",
+    "rating": 4.5,
+    "soldQuantity": 180,
+    "price": 24.99,
+    "SKU": "TRAVELMUG123",
+    "stock": 25,
+    "sizes": ["One Size"],
+    "quantity": 20,
+    "productImage": [
+      "https://i.pinimg.com/564x/f8/3a/2b/f83a2b5f74c9e57d2f8b476c4c7ef357.jpg",
+      "https://i.pinimg.com/564x/c0/57/0b/c0570bd5d68ca118d28da4e06de6fb37.jpg",
+      "https://i.pinimg.com/564x/59/97/80/59978029a516125b8ad6dc9d157f2990.jpg",
+      "https://i.pinimg.com/564x/c6/d3/41/c6d3411361ed88a3617b44b99cca0761.jpg",
+      "https://i.pinimg.com/564x/f1/ce/4e/f1ce4e6b2aebea2fcd55bf98d2cd01d9.jpg"
+    ],
+    "category": "Drinkware",
+    "description": "Keep your beverages hot or cold on the go with our Stainless Steel Travel Mug. Made from high-quality stainless steel, this mug is durable and resistant to rust and corrosion. Its double-wall insulation ensures your drinks stay at the desired temperature for hours. Perfect for commuting, traveling, or outdoor adventures.",
+    "features": [
+      "Double-wall insulation for temperature retention",
+      "Durable stainless steel construction",
+      "Leak-proof lid for added convenience",
+      "Sleek and modern design"
+    ],
+    "specifications": {
+      "material": "Stainless Steel",
+      "capacity": "16 oz",
+      "color": "Silver"
+    },
+    "reviews": [
+      {
+        "customerName": "Nathan Scott",
+        "customerImage": "nathan_image.jpg",
+        "rating": 4.3,
+        "comment": "Great travel mug! Keeps my coffee hot for hours."
+      },
+      {
+        "customerName": "Emma White",
+        "customerImage": "emma_image.jpg",
+        "rating": 4.7,
+        "comment": "Love this mug! It's sturdy and easy to clean."
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": 28,
+    "productName": "Yoga Mat with Carrying Strap",
+    "color": "Purple",
+    "rating": 4.7,
+    "soldQuantity": 150,
+    "price": 29.99,
+    "SKU": "YOGAMAT456",
+    "stock": 35,
+    "sizes": ["One Size"],
+    "quantity": 25,
+    "productImage": [
+      "https://i.pinimg.com/564x/d4/01/ad/d401ade4368125cab8001a4dedc20779.jpg",
+      "https://i.pinimg.com/564x/1c/d4/39/1cd43981a86fa1831ee919560ab534c9.jpg",
+      "https://i.pinimg.com/564x/6f/81/68/6f816804a16f957f7fcc320c2e1a4014.jpg",
+      "https://i.pinimg.com/564x/a6/aa/a6/a6aaa6038ee7a4737f4076129cb21cbd.jpg",
+      "https://i.pinimg.com/564x/df/ba/9b/dfba9b1b43c6150d951c270a77298f2c.jpg"
+    ],
+    "category": "Fitness",
+    "description": "Enhance your yoga practice with our Yoga Mat with Carrying Strap. Made from high-density foam, this mat provides cushioning and support for your joints and muscles during yoga sessions. Its non-slip surface ensures stability and safety, while the included carrying strap makes it easy to transport to and from the studio. Elevate your yoga experience with this essential accessory.",
+    "features": [
+      "High-density foam for cushioning",
+      "Non-slip surface for stability",
+      "Includes carrying strap for convenience",
+      "Easy to clean and maintain"
+    ],
+    "specifications": {
+      "material": "High-density Foam",
+      "dimensions": "72\" x 24\"",
+      "color": "Purple"
+    },
+    "reviews": [
+      {
+        "customerName": "Sophia Johnson",
+        "customerImage": "sophia_image.jpg",
+        "rating": 4.8,
+        "comment": "Excellent yoga mat! Provides great support and traction."
+      },
+      {
+        "customerName": "Liam Miller",
+        "customerImage": "liam_image.jpg",
+        "rating": 4.6,
+        "comment": "Love the color and texture of this mat. Highly recommend!"
+      }
+    ],
+    "featured": false
   }
 ]
