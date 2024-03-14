@@ -93,7 +93,7 @@
         "comment": "Great value for a healthier lifestyle."
       }
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": 4,
@@ -190,7 +190,7 @@
         "comment": "Great toy for learning and play. Highly recommended!"
       }
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": 6,
@@ -239,7 +239,7 @@
         "comment": "Highly recommended for those who appreciate quality."
       }
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": 7,
@@ -287,7 +287,7 @@
         "comment": "Exceptional quality. A must-have for home enthusiasts."
       }
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": 8,
@@ -337,7 +337,7 @@
         "comment": "Classic and elegant. Fits perfectly and looks amazing."
       }
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": 9,
