@@ -34,13 +34,13 @@
     "reviews": [
       {
         "customerName": "Michael Brown",
-        "customerImage": "michael_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/b2/f6/6b/b2f66b77b96a27917b819bd16983e623.jpg",
         "rating": 4.8,
         "comment": "Love the quality and fit. Highly recommended!"
       },
       {
         "customerName": "David Wilson",
-        "customerImage": "david_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/9e/52/3d/9e523d8faf76136111fa4b6f2596db1b.jpg",
         "rating": 4.5,
         "comment": "Great leather jacket. Excellent craftsmanship."
       }
@@ -82,13 +82,13 @@
     "reviews": [
       {
         "customerName": "Emily Smith",
-        "customerImage": "emily_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/14/59/50/1459503a33e2bcf057ac6526a747cf11.jpg",
         "rating": 5,
         "comment": "Love the variety in this health pack!"
       },
       {
         "customerName": "David Taylor",
-        "customerImage": "david_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/8b/6a/9a/8b6a9add7b8d053ac0aa8106195a8a21.jpg",
         "rating": 4.5,
         "comment": "Great value for a healthier lifestyle."
       }
@@ -130,13 +130,13 @@
     "reviews": [
       {
         "customerName": "Sophie Roberts",
-        "customerImage": "sophie_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/e3/03/0b/e3030bd9139bdf1c4186cc57f65e865f.jpg",
         "rating": 4,
         "comment": "Adorable and well-made outfits for kids."
       },
       {
         "customerName": "Ryan Johnson",
-        "customerImage": "ryan_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/8d/07/96/8d0796688f9afb84febec6f1301fe726.jpg",
         "rating": 5,
         "comment": "Great value and excellent quality!"
       }
@@ -179,13 +179,13 @@
     "reviews": [
       {
         "customerName": "Olivia Davis",
-        "customerImage": "olivia_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/c9/51/b5/c951b594606d918ed5cd5f484f99eaf1.jpg",
         "rating": 4.5,
         "comment": "My kids love this interactive robot! Educational and entertaining."
       },
       {
         "customerName": "Jake Miller",
-        "customerImage": "jake_image.jpg",
+        "customerImage": "https://i.pinimg.com/736x/ba/b0/a6/bab0a621b38f17d2437e5d319e39e5ab.jpg",
         "rating": 5,
         "comment": "Great toy for learning and play. Highly recommended!"
       }
@@ -228,13 +228,13 @@
     "reviews": [
       {
         "customerName": "Sophia Johnson",
-        "customerImage": "sophia_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/e4/dd/bf/e4ddbf28c97a195d199152af22f0519a.jpg",
         "rating": 5,
         "comment": "Absolutely love the flavor! The best organic olive oil I've tried."
       },
       {
         "customerName": "Ethan Davis",
-        "customerImage": "ethan_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/6a/80/3c/6a803ce0e17b943f6a7c4245126857ad.jpg",
         "rating": 4.8,
         "comment": "Highly recommended for those who appreciate quality."
       }
@@ -276,13 +276,13 @@
     "reviews": [
       {
         "customerName": "Ava Thompson",
-        "customerImage": "ava_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/5c/65/b4/5c65b45e664984c77f6a6701c44b71e8.jpg",
         "rating": 4.5,
         "comment": "Beautiful scents and elegant design. Love these candles!"
       },
       {
         "customerName": "Noah Harris",
-        "customerImage": "noah_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/0c/f7/66/0cf76619231c6184873fd89753ade3ef.jpg",
         "rating": 5,
         "comment": "Exceptional quality. A must-have for home enthusiasts."
       }
@@ -326,13 +326,13 @@
     "reviews": [
       {
         "customerName": "Liam White",
-        "customerImage": "liam_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/b9/ff/ac/b9ffaca5a566cdf2a79bfa329680bb23.jpg",
         "rating": 4.8,
         "comment": "Love the quality and style of this leather jacket. A great buy!"
       },
       {
         "customerName": "Ella Brown",
-        "customerImage": "ella_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/0d/0f/1d/0d0f1da62ae1fcf507ff4285dc6b0aa2.jpg",
         "rating": 4.4,
         "comment": "Classic and elegant. Fits perfectly and looks amazing."
       }
@@ -376,13 +376,13 @@
     "reviews": [
       {
         "customerName": "Isabella Taylor",
-        "customerImage": "isabella_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/7d/18/7d/7d187d27d790333a2c5c533f08e7b004.jpg",
         "rating": 5,
         "comment": "Absolutely love this dress! Beautiful design and great quality."
       },
       {
         "customerName": "Mia Johnson",
-        "customerImage": "mia_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/39/7b/c8/397bc8b3557589c89d712e38485a2013.jpg",
         "rating": 4.8,
         "comment": "Stunning dress. Received many compliments. Highly recommended!"
       }
@@ -425,13 +425,13 @@
     "reviews": [
       {
         "customerName": "Oliver Davis",
-        "customerImage": "oliver_image.jpg",
+        "customerImage": "https://i.pinimg.com/736x/6f/a4/41/6fa441de3302e4e4a9e8cd61ac14f380.jpg",
         "rating": 4.5,
         "comment": "Beautiful and functional leather notebook. Great for writing or sketching."
       },
       {
         "customerName": "Sophie Miller",
-        "customerImage": "sophie_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/1b/a2/ca/1ba2cad82575b312e4b6919ed406fb62.jpg",
         "rating": 5,
         "comment": "Love the quality and style. A must-have for stationery enthusiasts."
       }
@@ -473,13 +473,13 @@
     "reviews": [
       {
         "customerName": "Aiden White",
-        "customerImage": "aiden_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/0d/76/f9/0d76f96b2e28ab15f9934b870a0c636f.jpg",
         "rating": 4.8,
         "comment": "High-quality leather wallet. Stylish and functional."
       },
       {
         "customerName": "Sophia Brown",
-        "customerImage": "sophia_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/b2/65/6f/b2656f72057a36fb93a03264e1e36e31.jpg",
         "rating": 4.4,
         "comment": "Love the tan color and craftsmanship. Fits perfectly in my pocket."
       }
@@ -527,13 +527,13 @@
     "reviews": [
       {
         "customerName": "Ava Davis",
-        "customerImage": "ava_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/f4/1b/17/f41b1784bfa1b03bb05f1663e63971db.jpg",
         "rating": 4.5,
         "comment": "Beautiful and festive holiday decor set. Love the variety of decorations."
       },
       {
         "customerName": "Ethan White",
-        "customerImage": "ethan_image.jpg",
+        "customerImage": "https://i.pinimg.com/736x/dd/f2/32/ddf23255b2a516ba778b78082d4bdbcd.jpg",
         "rating": 5,
         "comment": "Transformed my home into a winter wonderland. Highly recommended!"
       }
@@ -575,13 +575,13 @@
     "reviews": [
       {
         "customerName": "Olivia Taylor",
-        "customerImage": "olivia_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/60/b5/53/60b5539aac8e87d72be362ca162e4df2.jpg",
         "rating": 5,
         "comment": "Absolutely stunning! The diamonds sparkle beautifully."
       },
       {
         "customerName": "Liam Johnson",
-        "customerImage": "liam_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/0c/cf/db/0ccfdbc781406180031d6184e6ce6763.jpg",
         "rating": 4.8,
         "comment": "Elegant and timeless. A perfect addition to my jewelry collection."
       }
@@ -624,13 +624,13 @@
     "reviews": [
       {
         "customerName": "Ethan Davis",
-        "customerImage": "ethan_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/71/47/cd/7147cd91925379b4d89f73fc02d8e16c.jpg",
         "rating": 4.5,
         "comment": "Love the design and functionality of this chronograph watch. Great value!"
       },
       {
         "customerName": "Ava White",
-        "customerImage": "ava_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/54/a4/1b/54a41bc7e8608d48a026af9aebf2fdac.jpg",
         "rating": 5,
         "comment": "Sleek and stylish. The chronograph feature is a bonus. Highly recommend!"
       }
@@ -672,13 +672,13 @@
     "reviews": [
       {
         "customerName": "Noah Johnson",
-        "customerImage": "noah_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/c0/ff/3b/c0ff3bc442f28361f2b677c2c95b8bb5.jpg",
         "rating": 4.8,
         "comment": "Great quality and style. The denim feels durable and looks great."
       },
       {
         "customerName": "Sophie Miller",
-        "customerImage": "sophie_image.jpg",
+        "customerImage": "https://i.pinimg.com/736x/30/76/9f/30769fbb6ba574c0ad6d3219525fd58b.jpg",
         "rating": 4.2,
         "comment": "Love the fit and color. A must-have for any casual wardrobe."
       }
@@ -726,13 +726,13 @@
     "reviews": [
       {
         "customerName": "Benjamin Davis",
-        "customerImage": "benjamin_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/4c/cd/14/4ccd1481115da3f9c9af18eded0cdb03.jpg",
         "rating": 4.8,
         "comment": "Excellent tool set! Has everything I need for various projects."
       },
       {
         "customerName": "Emily White",
-        "customerImage": "emily_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/19/8d/73/198d7377a1e654cff45144a0e20c8380.jpg",
         "rating": 4.5,
         "comment": "Quality tools in a convenient case. Highly recommend for DIY enthusiasts."
       }
@@ -780,13 +780,13 @@
     "reviews": [
       {
         "customerName": "Sophia Johnson",
-        "customerImage": "sophia_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/c4/e7/b4/c4e7b4235d62bdee994cf94e9b763fc3.jpg",
         "rating": 5,
         "comment": "Great grooming kit for my cat. Easy to use and effective."
       },
       {
         "customerName": "Ethan Miller",
-        "customerImage": "ethan_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/03/78/b0/0378b0365a0e562b126ba4956be83756.jpg",
         "rating": 4.8,
         "comment": "High-quality tools. My dog loves the grooming glove!"
       }
@@ -833,13 +833,13 @@
     "reviews": [
       {
         "customerName": "Emma Davis",
-        "customerImage": "emma_image.jpg",
+        "customerImage": "https://i.pinimg.com/736x/fb/da/c6/fbdac64bc6e1778d7011ff653374fddd.jpg",
         "rating": 4.5,
         "comment": "Beautiful winter decor set. Love the festive feel it brings to my home."
       },
       {
         "customerName": "Oliver White",
-        "customerImage": "oliver_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/04/8f/29/048f29275a3d78ff04f106628d0e27c8.jpg",
         "rating": 5,
         "comment": "High-quality decorations. Perfect for creating a winter ambiance."
       }
@@ -881,13 +881,13 @@
     "reviews": [
       {
         "customerName": "Alex Johnson",
-        "customerImage": "alex_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/cc/a8/5f/cca85fabf8bb8c4bbb3d17e95a1314d0.jpg",
         "rating": 5,
         "comment": "Adorable matching hoodies! Great quality and comfortable."
       },
       {
         "customerName": "Emily Brown",
-        "customerImage": "emily_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/4c/2c/96/4c2c96e8a8dfa6a0b9e3457221aa6070.jpg",
         "rating": 4.8,
         "comment": "Love the idea of matching with my partner. Highly recommend!"
       }
@@ -929,13 +929,13 @@
     "reviews": [
       {
         "customerName": "Sarah Smith",
-        "customerImage": "sarah_image.jpg",
+        "customerImage": "https://i.pinimg.com/736x/fa/7c/5c/fa7c5c4b939f9599f5da8ef92c33b6fd.jpg",
         "rating": 4.5,
         "comment": "Love this hat! It's so warm and cozy."
       },
       {
         "customerName": "Mike Davis",
-        "customerImage": "mike_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/96/7b/ef/967bef586b5916b03bca0521cd9bdf51.jpg",
         "rating": 4.8,
         "comment": "Great quality hat. Keeps me warm during my outdoor activities."
       }
@@ -976,13 +976,13 @@
     "reviews": [
       {
         "customerName": "John Doe",
-        "customerImage": "john_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/7f/a9/c0/7fa9c0fe4bb38f8a68c47c999453d528.jpg",
         "rating": 4.7,
         "comment": "Excellent quality wallet. Fits all my cards without bulking up."
       },
       {
         "customerName": "Emma Lee",
-        "customerImage": "emma_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/94/e9/b9/94e9b9645aae6ef4ed44338ced5777bb.jpg",
         "rating": 4.5,
         "comment": "Love the minimalist design. Perfect for everyday use."
       }
@@ -1023,13 +1023,13 @@
     "reviews": [
       {
         "customerName": "Michael Johnson",
-        "customerImage": "michael_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/89/8e/dd/898edd4287bc638df02fdfc48b59ac15.jpg",
         "rating": 4.2,
         "comment": "Great sound quality for its size. Easy to connect and use."
       },
       {
         "customerName": "Sophia Clark",
-        "customerImage": "sophia_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/89/87/fd/8987fd3d70490c1553e5d5cff2533aab.jpg",
         "rating": 4.5,
         "comment": "Love this speaker! Perfect for picnics and outdoor gatherings."
       }
@@ -1070,13 +1070,13 @@
     "reviews": [
       {
         "customerName": "Olivia Williams",
-        "customerImage": "olivia_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/40/63/dd/4063dd5073bbd1bdee7e78f9e18ee5ef.jpg",
         "rating": 4.9,
         "comment": "Great water bottle! Keeps my drinks cold for hours."
       },
       {
         "customerName": "Daniel Brown",
-        "customerImage": "daniel_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/5e/90/82/5e9082d4addfaef499a4193c088fddfb.jpg",
         "rating": 4.7,
         "comment": "Very pleased with this purchase. Highly recommended!"
       }
@@ -1117,13 +1117,13 @@
     "reviews": [
       {
         "customerName": "Matthew Taylor",
-        "customerImage": "matthew_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/a8/b7/73/a8b773d2f79df55f3480e8e5adbb46fb.jpg",
         "rating": 4.8,
         "comment": "Beautiful bag with ample storage space. Love the vintage look."
       },
       {
         "customerName": "Ella Wilson",
-        "customerImage": "ella_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/c8/72/bd/c872bd07738e9b32ec79da9c8428fa12.jpg",
         "rating": 4.5,
         "comment": "Excellent quality and craftsmanship. Highly recommend!"
       }
@@ -1164,13 +1164,13 @@
     "reviews": [
       {
         "customerName": "David Thompson",
-        "customerImage": "david_image.jpg",
+        "customerImage": "https://i.pinimg.com/736x/7e/35/3f/7e353fb5f0e662d5d6c55cd9302d366d.jpg",
         "rating": 5,
         "comment": "Great quality cutting boards. Love the different sizes."
       },
       {
         "customerName": "Sophie Martinez",
-        "customerImage": "sophie_image.jpg",
+        "customerImage": "https://i.pinimg.com/736x/69/c5/27/69c527ba9a9f10d7782e1a7fb2d93058.jpg",
         "rating": 4.8,
         "comment": "Beautiful and functional set. Highly recommended!"
       }
@@ -1211,13 +1211,13 @@
     "reviews": [
       {
         "customerName": "Nathan Scott",
-        "customerImage": "nathan_image.jpg",
+        "customerImage": "https://i.pinimg.com/736x/96/e6/b5/96e6b530c9e91f361faf887ebc8eaf80.jpg",
         "rating": 4.3,
         "comment": "Great travel mug! Keeps my coffee hot for hours."
       },
       {
         "customerName": "Emma White",
-        "customerImage": "emma_image.jpg",
+        "customerImage": "https://i.pinimg.com/736x/e3/7c/00/e37c00627a3dd3274ab8ef73cb2b367f.jpg",
         "rating": 4.7,
         "comment": "Love this mug! It's sturdy and easy to clean."
       }
@@ -1258,13 +1258,13 @@
     "reviews": [
       {
         "customerName": "Sophia Johnson",
-        "customerImage": "sophia_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/cd/0d/b0/cd0db002e5cf72d8537b863c5055d561.jpg",
         "rating": 4.8,
         "comment": "Excellent yoga mat! Provides great support and traction."
       },
       {
         "customerName": "Liam Miller",
-        "customerImage": "liam_image.jpg",
+        "customerImage": "https://i.pinimg.com/564x/70/0d/e3/700de3040b57d751ce750fe277c3d783.jpg",
         "rating": 4.6,
         "comment": "Love the color and texture of this mat. Highly recommend!"
       }
