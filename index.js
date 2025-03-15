@@ -1,11 +1,10 @@
 const express = require("express");
 const app = express();
-const cors = require("cors");
-const port = 3000;
-const products = require("./Data/products.json");
-const menus = require("./Data/menus.json");
-const category = require("./Data/category.json");
-const rizzCategory = require("./Rizz-data/category.json");
+const cors = require('cors');
+const port = 5000;
+const products = require('./Data/products.json')
+const menus = require('./Data/menus.json')
+const category = require('./Data/category.json')
 
 app.use(cors());
 app.use(express.json());
