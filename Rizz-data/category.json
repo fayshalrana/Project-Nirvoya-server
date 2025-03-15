@@ -1,0 +1,50 @@
+[
+  {
+    "id": "weight-loss",
+    "title": "Weight Loss",
+    "image": "./images/categoryImage1.svg",
+    "bgImage": "./images/categoryBgone.svg",
+    "categoryName": "weight-loss",
+    "gradient": "linear-gradient(145deg, #FF9797, #FF6B6B)"
+  },
+  {
+    "id": "testosterone",
+    "title": "Testosterone HRT",
+    "image": "./images/categoryImage2.svg",
+    "bgImage": "./images/categoryBgTwo.svg",
+    "categoryName": "testosterone",
+    "gradient": "linear-gradient(145deg, #F27070, #97B5FB)"
+  },
+  {
+    "id": "sexual-health",
+    "title": "Sexual Health",
+    "image": "./images/categoryImage3.svg",
+    "bgImage": "./images/categoryBgTwo.svg",
+    "categoryName": "sexual-health",
+    "gradient": "linear-gradient(145deg, #FFA97A, #FF8A5B)"
+  },
+  {
+    "id": "athletic",
+    "title": "Athletic Performance",
+    "image": "./images/categoryImage4.svg",
+    "bgImage": "./images/categoryBgone.svg",
+    "categoryName": "athletic",
+    "gradient": "linear-gradient(145deg, #F29B70, #FBD197)"
+  },
+  {
+    "id": "brain-health",
+    "title": "Brain Health",
+    "image": "./images/categoryImage5.svg",
+    "bgImage": "./images/categoryBgone.svg",
+    "categoryName": "brain-health",
+    "gradient": "linear-gradient(145deg, #A78BFA, #8B5CF6)"
+  },
+  {
+    "id": "beauty",
+    "title": "Beauty and Hair Loss",
+    "image": "./images/categoryImage6.svg",
+    "bgImage": "./images/categoryBgTwo.svg",
+    "categoryName": "beauty",
+    "gradient": "linear-gradient(145deg, #70CBF2, #97B0FB)"
+  }
+]
