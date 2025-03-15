@@ -5,6 +5,7 @@ const port = 5000;
 const products = require('./Data/products.json')
 const menus = require('./Data/menus.json')
 const category = require('./Data/category.json')
+const rizzCategory  = require('./Rizz-data/category.json')
 
 app.use(cors());
 app.use(express.json());
