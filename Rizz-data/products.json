@@ -86,5 +86,37 @@
     "price": "Starting at $149 Monthly + $100 Lab Charge",
     "category": "sexual-health",
     "badge": "Recurring Plan"
+  },
+  {
+    "id": 12,
+    "name": "Premium Retarutide Plus",
+    "image": "./images/Rizz-Reta-GLP3-24mg.svg",
+    "price": "$59.99/per month",
+    "category": "best-selling",
+    "badge": "Best Seller"
+  },
+  {
+    "id": 13,
+    "name": "Elite CJC-1295 Complex",
+    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
+    "price": "$199.99/per month",
+    "category": "best-selling",
+    "badge": "Best Seller"
+  },
+  {
+    "id": 14,
+    "name": "Advanced NAD+ Supreme",
+    "image": "./images/Untitled-design-2024-06-27T162222.562-removebg-preview 1.svg",
+    "price": "Starting at $249 Monthly",
+    "category": "best-selling",
+    "badge": "Best Seller"
+  },
+  {
+    "id": 15,
+    "name": "Ultimate PT-141 Max",
+    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only (1).svg",
+    "price": "Starting at $189 Monthly",
+    "category": "best-selling",
+    "badge": "Best Seller"
   }
 ]
