@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Retarutide",
-    "image": "./images/Rizz-Reta-GLP3-24mg.svg",
+    "image": "/images/Rizz-Reta-GLP3-24mg.svg",
     "price": "$39.99/per month",
     "category": "weight-loss",
     "badge": "Research use only"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Lyopholized Glow (GHK-CU/ BPC-157/ TB-500)",
-    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
+    "image": "/images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
     "price": "$39.99/per month",
     "category": "beauty",
     "badge": "Research use only"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Compounded Sermorelin 15mg",
-    "image": "./images/Untitled-design-2024-06-27T162222.562-removebg-preview 1.svg",
+    "image": "/images/Untitled-design-2024-06-27T162222.562-removebg-preview 1.svg",
     "price": "Starting at $179 Monthly + $45 consult",
     "category": "weight-loss",
     "badge": "Recurring Plan"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "2X CJC / Ipamorelin",
-    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
+    "image": "/images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
     "price": "Starting at $149 Monthly",
     "category": "testosterone",
     "badge": null
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "Lyopholized Oxytocin",
-    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only (1).svg",
+    "image": "/images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only (1).svg",
     "price": "$39.99/per month",
     "category": "sexual-health",
     "badge": "Research use only"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "Lyopholized Fi masteride 1mg",
-    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
+    "image": "/images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
     "price": "$39.99/per month",
     "category": "beauty",
     "badge": "Recurring Plan"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "name": "Compounded NAD+ 1000 mg",
-    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
+    "image": "/images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
     "price": "Starting at $179 Monthly + $45 consult",
     "category": "brain-health",
     "badge": null
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "name": "Lyopholized PT- 141 10mg",
-    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
+    "image": "/images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
     "price": "Starting at $149 Monthly + $100 Lab Charge",
     "category": "sexual-health",
     "badge": "Research use only"
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "name": "Lyopholized Fi masteride 1mg",
-    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
+    "image": "/images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
     "price": "$39.99/per month",
     "category": "beauty",
     "badge": "Recurring Plan"
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "name": "Compounded NAD+ 1000 mg",
-    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
+    "image": "/images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
     "price": "Starting at $179 Monthly + $45 consult",
     "category": "brain-health",
     "badge": "Recurring Plan"
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "name": "Lyopholized PT- 141 10mg",
-    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
+    "image": "/images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
     "price": "Starting at $149 Monthly + $100 Lab Charge",
     "category": "sexual-health",
     "badge": "Recurring Plan"
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "name": "Premium Retarutide Plus",
-    "image": "./images/Rizz-Reta-GLP3-24mg.svg",
+    "image": "/images/Rizz-Reta-GLP3-24mg.svg",
     "price": "$59.99/per month",
     "category": "best-selling",
     "badge": "Best Seller"
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "name": "Elite CJC-1295 Complex",
-    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
+    "image": "/images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only.svg",
     "price": "$199.99/per month",
     "category": "best-selling",
     "badge": "Best Seller"
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "name": "Advanced NAD+ Supreme",
-    "image": "./images/Untitled-design-2024-06-27T162222.562-removebg-preview 1.svg",
+    "image": "/images/Untitled-design-2024-06-27T162222.562-removebg-preview 1.svg",
     "price": "Starting at $249 Monthly",
     "category": "best-selling",
     "badge": "Best Seller"
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "name": "Ultimate PT-141 Max",
-    "image": "./images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only (1).svg",
+    "image": "/images/Rizz-2X-Blend-CJC_Ipa-5_5mg-research use only (1).svg",
     "price": "Starting at $189 Monthly",
     "category": "best-selling",
     "badge": "Best Seller"
