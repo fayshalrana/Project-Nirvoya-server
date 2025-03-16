@@ -1,115 +1,173 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const port = 3000;
 const products = require("./Data/products.json");
 const menus = require("./Data/menus.json");
 const category = require("./Data/category.json");
-const rizzCategory = require("./rizz-data/category.json");
 const rizzProducts = require("./Rizz-data/products.json");
+const rizzCategory = require("./Rizz-data/category.json");
 
-app.use(cors());
+// Enable CORS for all routes
+app.use(
+  cors({
+    origin: "*",
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
+
 app.use(express.json());
+
+// Health check route
+app.get("/api/health", (req, res) => {
+  res.status(200).json({ status: "healthy" });
+});
 
 // Define a route
 app.get("/", (req, res) => {
-  res.send("Project Nirvoy products data ");
+  res.json({ message: "Project Nirvoy products data API" });
 });
+
 //Menus
-app.get("/menus", (req, res) => {
-  res.send(menus);
+app.get("/api/menus", (req, res) => {
+  try {
+    res.json(menus);
+  } catch (error) {
+    res.status(500).json({ error: "Error fetching menus" });
+  }
 });
 
-app.get("/shop/:name", (req, res) => {
-  const name = req.params.name;
+app.get("/api/shop/:name", (req, res) => {
+  try {
+    const name = req.params.name;
+    const result = menus.find((menu) => menu.name === name);
 
-  const result = menus.find((menu) => menu.name === name);
-
-  if (result) {
-    res.send(result);
-  } else {
-    res.status(404).send("Menu not found");
+    if (result) {
+      res.json(result);
+    } else {
+      res.status(404).json({ error: "Menu not found" });
+    }
+  } catch (error) {
+    res.status(500).json({ error: "Error fetching menu" });
   }
 });
 
 //products
-app.get("/products", (req, res) => {
-  res.send(products);
-});
-
-//single product
-app.get("/product/:id", (req, res) => {
-  const id = req.params.id;
-  const result = products.find((product) => product.id.toString() === id);
-  console.log(result);
-  res.send(result);
-});
-
-//Rizz Category endpoints
-// Get all rizz categories
-app.get("/rizz-category", (req, res) => {
-  res.send(rizzCategory);
-});
-
-// Get single rizz category by ID
-app.get("/rizz-category/:id", (req, res) => {
-  const id = req.params.id;
-  const result = rizzCategory.find((cat) => cat.id === id);
-
-  if (result) {
-    res.send(result);
-  } else {
-    res.status(404).send("Rizz category not found");
+app.get("/api/products", (req, res) => {
+  try {
+    res.json(products);
+  } catch (error) {
+    res.status(500).json({ error: "Error fetching products" });
   }
 });
 
-// Get products by rizz category ID
-app.get("/rizz-category/:id/products", (req, res) => {
-  const categoryId = req.params.id;
-  const categoryProducts = rizzProducts.filter(
-    (product) => product.category === categoryId
-  );
+//single product
+app.get("/api/product/:id", (req, res) => {
+  try {
+    const id = req.params.id;
+    const result = products.find((product) => product.id.toString() === id);
 
-  if (categoryProducts.length > 0) {
-    res.send(categoryProducts);
-  } else {
-    res.send([]);
+    if (result) {
+      res.json(result);
+    } else {
+      res.status(404).json({ error: "Product not found" });
+    }
+  } catch (error) {
+    res.status(500).json({ error: "Error fetching product" });
+  }
+});
+
+//Rizz Category endpoints
+app.get("/api/rizz-category", (req, res) => {
+  try {
+    res.json(rizzCategory);
+  } catch (error) {
+    res.status(500).json({ error: "Error fetching rizz categories" });
+  }
+});
+
+app.get("/api/rizz-category/:id", (req, res) => {
+  try {
+    const id = req.params.id;
+    const result = rizzCategory.find((cat) => cat.id === id);
+
+    if (result) {
+      res.json(result);
+    } else {
+      res.status(404).json({ error: "Rizz category not found" });
+    }
+  } catch (error) {
+    res.status(500).json({ error: "Error fetching rizz category" });
+  }
+});
+
+app.get("/api/rizz-category/:id/products", (req, res) => {
+  try {
+    const categoryId = req.params.id;
+    const categoryProducts = rizzProducts.filter(
+      (product) => product.category === categoryId
+    );
+
+    res.json(categoryProducts);
+  } catch (error) {
+    res.status(500).json({ error: "Error fetching category products" });
   }
 });
 
 // Rizz Products endpoints
-// Get all rizz products
-app.get("/rizz-products", (req, res) => {
-  res.send(rizzProducts);
-});
-
-// Get single rizz product by ID
-app.get("/rizz-products/:id", (req, res) => {
-  const id = parseInt(req.params.id);
-  const result = rizzProducts.find((product) => product.id === id);
-
-  if (result) {
-    res.send(result);
-  } else {
-    res.status(404).send("Rizz product not found");
+app.get("/api/rizz-products", (req, res) => {
+  try {
+    res.json(rizzProducts);
+  } catch (error) {
+    res.status(500).json({ error: "Error fetching rizz products" });
   }
 });
 
-// Get rizz products by badge type
-app.get("/rizz-products/badge/:type", (req, res) => {
-  const badgeType = req.params.type;
-  const filteredProducts = rizzProducts.filter(
-    (product) => product.badge === badgeType
-  );
+app.get("/api/rizz-products/:id", (req, res) => {
+  try {
+    const id = parseInt(req.params.id);
+    const result = rizzProducts.find((product) => product.id === id);
 
-  if (filteredProducts.length > 0) {
-    res.send(filteredProducts);
-  } else {
-    res.send([]);
+    if (result) {
+      res.json(result);
+    } else {
+      res.status(404).json({ error: "Rizz product not found" });
+    }
+  } catch (error) {
+    res.status(500).json({ error: "Error fetching rizz product" });
   }
 });
 
-// Start the server
-app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port}`);
+app.get("/api/rizz-products/badge/:type", (req, res) => {
+  try {
+    const badgeType = req.params.type;
+    const filteredProducts = rizzProducts.filter(
+      (product) => product.badge === badgeType
+    );
+    res.json(filteredProducts);
+  } catch (error) {
+    res.status(500).json({ error: "Error fetching products by badge" });
+  }
 });
+
+// Error handling middleware
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).json({ error: "Something broke!" });
+});
+
+// Handle 404
+app.use((req, res) => {
+  res.status(404).json({ error: "Route not found" });
+});
+
+// For local development
+if (process.env.NODE_ENV !== "production") {
+  const port = process.env.PORT || 3000;
+  app.listen(port, () => {
+    console.log(`Server is running on http://localhost:${port}`);
+  });
+}
+
+// Export the Express API
+module.exports = app;
