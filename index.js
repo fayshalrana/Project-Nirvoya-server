@@ -5,6 +5,7 @@ const port = 3000;
 const products = require("./Data/products.json");
 const menus = require("./Data/menus.json");
 const category = require("./Data/category.json");
+const rizzCategory = require("./rizz-data/category.json");
 const rizzProducts = require("./Rizz-data/products.json");
 
 app.use(cors());
@@ -47,13 +48,13 @@ app.get("/product/:id", (req, res) => {
 //Rizz Category endpoints
 // Get all rizz categories
 app.get("/rizz-category", (req, res) => {
-  res.send(category);
+  res.send(rizzCategory);
 });
 
 // Get single rizz category by ID
 app.get("/rizz-category/:id", (req, res) => {
   const id = req.params.id;
-  const result = category.find((cat) => cat.id === id);
+  const result = rizzCategory.find((cat) => cat.id === id);
 
   if (result) {
     res.send(result);
