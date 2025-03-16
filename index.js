@@ -1,11 +1,11 @@
 const express = require("express");
 const app = express();
-const cors = require('cors');
-const port = 5000;
-const products = require('./Data/products.json')
-const menus = require('./Data/menus.json')
-const category = require('./Data/category.json')
-const rizzCategory  = require('./Rizz-data/category.json')
+const cors = require("cors");
+const port = 3000;
+const products = require("./Data/products.json");
+const menus = require("./Data/menus.json");
+const category = require("./Data/category.json");
+const rizzProducts = require("./Rizz-data/products.json");
 
 app.use(cors());
 app.use(express.json());
@@ -44,25 +44,68 @@ app.get("/product/:id", (req, res) => {
   res.send(result);
 });
 
-//Category
+//Rizz Category endpoints
+// Get all rizz categories
 app.get("/rizz-category", (req, res) => {
-  res.send(rizzCategory);
+  res.send(category);
 });
 
-//single category
+// Get single rizz category by ID
 app.get("/rizz-category/:id", (req, res) => {
   const id = req.params.id;
-  const result = rizzCategory.find((category) => category.id.toString() === id);
-  console.log(result);
-  res.send(result);
+  const result = category.find((cat) => cat.id === id);
+
+  if (result) {
+    res.send(result);
+  } else {
+    res.status(404).send("Rizz category not found");
+  }
 });
 
-//single category products
+// Get products by rizz category ID
 app.get("/rizz-category/:id/products", (req, res) => {
-  const id = req.params.id;
-  const result = products.filter((product) => product.category === id);
-  console.log(result);
-  res.send(result);
+  const categoryId = req.params.id;
+  const categoryProducts = rizzProducts.filter(
+    (product) => product.category === categoryId
+  );
+
+  if (categoryProducts.length > 0) {
+    res.send(categoryProducts);
+  } else {
+    res.send([]);
+  }
+});
+
+// Rizz Products endpoints
+// Get all rizz products
+app.get("/rizz-products", (req, res) => {
+  res.send(rizzProducts);
+});
+
+// Get single rizz product by ID
+app.get("/rizz-products/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const result = rizzProducts.find((product) => product.id === id);
+
+  if (result) {
+    res.send(result);
+  } else {
+    res.status(404).send("Rizz product not found");
+  }
+});
+
+// Get rizz products by badge type
+app.get("/rizz-products/badge/:type", (req, res) => {
+  const badgeType = req.params.type;
+  const filteredProducts = rizzProducts.filter(
+    (product) => product.badge === badgeType
+  );
+
+  if (filteredProducts.length > 0) {
+    res.send(filteredProducts);
+  } else {
+    res.send([]);
+  }
 });
 
 // Start the server
